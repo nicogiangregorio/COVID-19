@@ -44,5 +44,5 @@ def load_data_plot(path, region):
                     hoverinfo='x + y'))
 
     '''
-    fig.write_html(region[1] + '.html', auto_open=True)
+    fig.write_html(region[1] + '.html', auto_open=True, include_plotlyjs=False, full_html=False)
     #fig2.write_html(region[1] + '2.html', auto_open=True)

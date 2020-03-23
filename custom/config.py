@@ -1,7 +1,7 @@
 regioni = [
 #    ('1' , 'Piemonte'),
 #    ('2' , 'Valle d\'Aosta'),
-    (3 , 'Lombardia')#,
+#    (3 , 'Lombardia'),
 #    ('4' , 'P.A. Trento'),
 #    ('4' , 'P.A. Bolzano'),
 #    ('5' , 'Veneto'),
@@ -15,7 +15,7 @@ regioni = [
 #    ('13' , 'Abruzzo'),
 #    ('14' , 'Molise'),
 #    ('15' , 'Campania'),
-#    ('16' , 'Puglia'),
+    (16 , 'Puglia')#,
 #    ('17' , 'Basilicata'),
 #    ('18' , 'Calabria'),
 #    ('19' , 'Sicilia'),
