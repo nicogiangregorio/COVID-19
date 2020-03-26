@@ -1,48 +1,46 @@
-import glob
-import pandas as pd
 import plotly.graph_objects as go
-import plotly.express as px
 from plotly.subplots import make_subplots
+import os
 
-def load_data_plot(path, region):
-    results = []
-    for fname in glob.glob(path):
-        df = pd.read_csv(fname)
-        df = df[df['codice_regione'] == region[0]]
-        df['ratio_positivi_tamponi'] = round(100 * df['totale_attualmente_positivi'] / df['tamponi'], 2)
-        results.append(df)
-    frame = pd.concat(results).drop_duplicates()
-
-    fig = go.Figure()
-    fig = make_subplots(rows=2, cols=1)
-    fig.append_trace(go.Scatter(
-                    x=frame['data'],
-                    y=frame['deceduti'],
+def build_plot(region_id, regional_frame, national_frame):
+    fig1 = go.Figure()
+    fig1 = make_subplots(rows=1, cols=1)
+    fig1.append_trace(go.Scatter(
+                    x=regional_frame['data'],
+                    y=regional_frame['deceduti'],
                     name="Deceduti"),
                     row=1, col=1)
-    fig.append_trace(go.Scatter(
-                    x=frame['data'],
-                    y=frame['dimessi_guariti'],
-                    name="Guariti e dimessi"),
+    fig1.append_trace(go.Scatter(
+                    x=regional_frame['data'],
+                    y=regional_frame['dimessi_guariti'],
+                    name="Guariti"),
                     row=1, col=1)
-    fig.append_trace(go.Scatter(
-                    x=frame['data'],
-                    y=frame['totale_attualmente_positivi'],
+    fig1.append_trace(go.Scatter(
+                    x=regional_frame['data'],
+                    y=regional_frame['totale_attualmente_positivi'],
                     name="Positivi attualmente"),
                     row=1, col=1)
-    fig.append_trace(go.Scatter(
-                    x=frame['data'],
-                    y=frame['ratio_positivi_tamponi'],
-                    name="% positivi su tamponi"),
-                    row=2, col=1)
-    '''
+    fig1.append_trace(go.Scatter(
+                    x=regional_frame['data'],
+                    y=regional_frame['nuovi_attualmente_positivi'],
+                    name="Nuovi positivi"),
+                    row=1, col=1)
+    fig1.update_layout(legend_orientation="h")
+    
     fig2 = go.Figure()
-    fig2.add_trace(go.Scatter(
-                    x=frame['data'],
-                    y=frame['ratio_positivi_tamponi'],
-                    name="\\% positivi su tamponi",
-                    hoverinfo='x + y'))
-
-    '''
-    fig.write_html(region[1] + '.html', auto_open=True, include_plotlyjs=False, full_html=False)
-    #fig2.write_html(region[1] + '2.html', auto_open=True)
+    fig2 = make_subplots(rows=1, cols=1)
+    fig2.append_trace(go.Scatter(
+                    x=regional_frame['data'],
+                    y=regional_frame['ratio_positivi_tamponi'],
+                    name="% regionale"),
+                    row=1, col=1)
+    fig2.append_trace(go.Scatter(
+                    x=national_frame['data'],
+                    y=national_frame['ratio_positivi_tamponi'],
+                    name="% nazionale"),
+                    row=1, col=1)
+    fig2.update_layout(legend_orientation="h")
+    
+    out1 = fig1.to_html(include_plotlyjs=False, full_html=False)
+    out2 = fig2.to_html(include_plotlyjs=False, full_html=False)
+    return {'graph1': out1, 'graph2': out2}

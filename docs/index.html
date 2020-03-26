@@ -1,153 +1,62 @@
 <!doctype html>
 <html lang="it">
   <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
+    <script src="https://cdn.plot.ly/plotly-latest.min.js" crossorigin="anonymous"></script> 
     <title>COVID-19 Dati Regioni</title>
   </head>
   <body class="bg-light">
     <div class="container shadow p-3 mb-5 bg-white rounded">
-      <h1>Analisi regionale dei dati COVID-19 Italia</h1>
+      <h1>Analisi regionale dei dati COVID-19</h1>
       <p>
         Questa pagina ha l'obiettivo di illustrare i grafici andamentali dell'emergenza con granularità regionale.
       </p>
       <p>
         Sono utilizzati i dati ufficiali pubblicati dal <em><a href="https://github.com/pcm-dpc/COVID-19/" class="text-decoration-none">Dipartimento della Protezione Civile</a></em>, elaborati su base regionale.
         Il repository ufficiale, con il codice sorgente utilizzato per le elaborazioni, è disponibile  <a href="#" class="text-decoration-none"> a questo indirizzo GitHub</a>: è un fork del repository ufficiale. 
-      <p>
-        Il <em>Dipartimento della Protezione Civile</em> ha elaborato un cruscotto geografico interattivo raggiungibile agli indirizzi <a href="http://arcg.is/C1unv" class="text-decoration-none">http://arcg.is/C1unv</a> (versione desktop) e <a href="http://arcg.is/081a51" class="text-decoration-none"></a> http://arcg.is/081a51 (versione mobile), contenente informazioni dettagliate sull'andamento nazionale.
-      </p>
-      <div class="row">
-        <div class="col-4">
-          <img src="img/mappa_regioni.jpg" id="mappa_regioni" border="0" alt="" usemap="#mappa_regioni_Map">
-          <map name="mappa_regioni_Map">
-            <area id="Puglia" class="region" shape="poly" alt="" coords="259,246, 261,247, 263,248, 264,251, 267,253, 269,255, 269,257, 271,259, 273,259, 279,262, 281,260, 287,259, 290,260, 291,262, 296,268, 303,275, 307,275, 310,275, 313,279, 315,285, 320,286, 325,283, 328,285, 331,288, 335,289, 339,291, 345,292, 347,293, 347,294, 352,299,
-            355,305, 359,307,
-            362,308, 366,310, 367,308, 368,303, 370,301, 370,297, 367,293, 363,288, 358,283, 353,276, 350,273, 344,272, 337,270, 333,266, 328,260, 323,258, 318,257, 314,255, 310,253, 305,251, 300,249, 296,247, 291,245, 288,242, 288,240, 289,240, 289,238, 290,237, 291,237, 293,236, 295,234, 297,233, 297,231, 296,229, 294,228, 292,226,
-            287,226, 278,227, 273,227, 268,227, 264,227, 265,230, 264,233, 265,234, 265,236, 261,239, 259,240, 260,244, 259,246, 259,246" href="#" >
-            
-            <area shape="poly" alt="" coords="50,329, 51,331, 51,332, 49,334, 47,331, 48,329, 50,329, 50,329" href="https://it.wikipedia.org/wiki/Sardegna" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sardegna.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="54,333, 55,335, 55,338, 54,339, 52,338, 51,336, 52,335, 53,333, 54,333" href="https://it.wikipedia.org/wiki/Sardegna" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sardegna.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="85,248, 87,249, 88,251, 90,251, 91,254, 93,254, 95,256, 96,258, 97,260, 96,263, 98,265, 98,269, 99,270, 100,273, 100,277, 101,277, 102,277, 102,283, 101,287, 99,289, 98,290, 97,293, 97,294, 98,295, 99,297, 98,301, 98,302, 98,303, 98,308, 96,310, 95,312, 96,319, 96,322,
-            95,324, 94,323, 93,323,
-            94,325, 94,327, 92,327, 91,332, 90,334, 89,336, 86,335, 84,332, 83,329, 78,330, 76,331, 74,333, 74,333, 74,335, 74,338, 73,340, 72,342, 70,343, 68,344, 65,345, 63,344, 61,342, 60,340, 58,339, 57,336, 56,334, 55,332, 54,328, 54,324, 53,320, 54,316, 55,315, 55,313, 56,310, 58,309, 58,306, 55,303, 55,299, 58,296, 60,293, 59,289,
-            57,287, 56,282, 55,280, 55,278, 51,276, 49,272, 50,269, 50,264, 52,260, 54,260, 56,263, 58,265, 61,265, 63,266, 66,263, 70,260, 75,257, 78,253, 81,251, 85,248, 85,248" href="https://it.wikipedia.org/wiki/Sardegna" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sardegna.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="57,253, 57,256, 55,257, 54,258, 53,257, 53,254, 54,253, 57,253, 57,253" href="https://it.wikipedia.org/wiki/Sardegna" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sardegna.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="94,250, 94,251, 93,252, 92,250, 94,250, 94,250" href="https://it.wikipedia.org/wiki/Sardegna" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sardegna.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="91,248, 92,250, 90,250, 90,248, 91,248" href="https://it.wikipedia.org/wiki/Sardegna" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sardegna.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="169,383, 171,386, 168,387, 166,386, 166,383, 168,382, 169,383, 169,383" href="https://it.wikipedia.org/wiki/Sicilia" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sicilia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="175,387, 174,388, 174,387, 175,387" href="https://it.wikipedia.org/wiki/Sicilia" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sicilia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="179,383, 179,385, 177,386, 176,385, 175,383, 176,382, 179,383, 179,383" href="https://it.wikipedia.org/wiki/Sicilia" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sicilia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="261,367, 262,369, 260,369, 261,367" href="https://it.wikipedia.org/wiki/Sicilia" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sicilia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="259,363, 260,365, 258,365, 258,363, 259,363" href="https://it.wikipedia.org/wiki/Sicilia" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sicilia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="257,359, 258,361, 256,362, 254,363, 254,360, 257,359, 257,359" href="https://it.wikipedia.org/wiki/Sicilia" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sicilia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="268,350, 270,352, 270,354, 268,355, 266,354, 266,352, 268,350" href="https://it.wikipedia.org/wiki/Sicilia" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sicilia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="266,375, 267,372, 270,373, 272,375, 273,374, 275,372, 277,372, 279,372, 280,377, 278,379, 278,380, 277,384, 275,387, 273,391, 271,394, 270,396, 270,398, 270,400, 269,402, 268,403, 267,405, 268,408, 267,411, 270,413, 271,417, 272,421, 271,425, 269,427, 268,428, 268,428,
-            268,435, 266,436,
-            264,438, 261,437, 259,435, 255,437, 251,436, 247,431, 244,428, 241,425, 235,422, 228,421, 224,420, 219,417, 215,415, 212,413, 208,409, 205,406, 198,404, 192,402, 186,401, 182,397, 181,393, 182,388, 183,383, 187,380, 190,378, 191,377, 192,377, 194,381, 196,383, 198,383, 200,380, 203,376, 208,376, 213,379, 218,382, 221,384,
-            227,383, 232,382, 236,382, 240,380, 249,380, 253,378, 257,376, 261,377, 265,377, 266,375, 266,375" href="https://it.wikipedia.org/wiki/Sicilia" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/sicilia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="311,301, 312,304, 311,308, 310,308, 309,310, 309,316, 311,317, 314,318, 316,318, 320,321, 323,322, 326,324, 328,327, 329,333, 329,337, 331,341, 332,343, 331,345, 326,346, 320,346, 316,349, 314,353, 312,353, 311,354, 312,359, 313,364, 310,367, 305,371, 303,374, 300,378,
-            298,384, 295,386,
-            288,387, 284,387, 282,384, 282,377, 285,374, 288,370, 289,365, 288,361, 287,360, 287,358, 289,356, 292,354, 294,354, 296,353, 297,352, 299,349, 299,345, 297,342, 295,338, 293,334, 292,327, 291,324, 289,323, 287,321, 286,317, 284,314, 285,310, 285,307, 285,307, 286,307, 289,305, 293,304, 295,307, 299,309, 302,307, 304,304,
-            307,301, 311,301, 311,301" href="https://it.wikipedia.org/wiki/Calabria" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/calabria.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="279,303, 281,304, 283,306, 286,307, 289,305, 293,304, 295,307, 299,309, 302,307, 304,304, 307,301, 311,301, 314,298, 316,295, 317,292, 318,289, 318,286, 318,286, 315,285, 313,279, 310,275, 307,275, 303,275, 296,268, 291,262, 290,260, 287,259, 281,260, 279,262, 279,265,
-            277,268, 274,270,
-            272,273, 273,276, 277,277, 277,281, 277,284, 278,284, 279,285, 280,289, 284,291, 285,293, 285,296, 283,298, 281,299, 281,303, 279,303, 279,303" href="https://it.wikipedia.org/wiki/Basilicata" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/basilicata.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="230,247, 230,247, 232,248, 236,248, 239,246, 240,245, 243,245, 245,247, 249,247, 252,245, 253,246, 255,247, 258,247, 259,246, 259,246, 261,247, 263,248, 264,251, 267,253, 269,255, 269,257, 271,259, 273,259, 278,262, 279,262, 279,265, 277,268, 274,270, 272,273, 273,276,
-            277,277, 277,281,
-            277,284, 278,284, 279,285, 280,289, 284,291, 285,293, 285,296, 283,298, 281,299, 281,303, 278,304, 278,305, 276,305, 271,305, 267,302, 262,298, 259,295, 259,292, 260,289, 258,283, 256,281, 254,279, 252,278, 250,278, 246,281, 242,279, 243,277, 242,273, 237,272, 232,272, 229,267, 227,263, 224,259, 224,257, 224,257, 224,257,
-            224,253, 226,249, 229,247, 230,247, 230,247" href="https://it.wikipedia.org/wiki/Campania" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/campania.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="235,282, 237,282, 237,285, 235,286, 233,284, 235,282, 235,282" href="https://it.wikipedia.org/wiki/Campania" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/campania.jpg'" target="_blank" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="225,274, 226,274, 227,275, 227,278, 224,277, 224,275, 225,274, 225,274" href="https://it.wikipedia.org/wiki/Campania" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/campania.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="230,247, 230,245, 230,241, 229,238, 229,238, 233,236, 237,231, 241,229, 244,231, 245,232, 248,230, 250,227, 252,225, 254,221, 255,222, 257,223, 259,224, 261,225, 262,225, 264,227, 265,230, 264,233, 265,234, 265,236, 261,239, 259,240, 260,244, 258,247, 255,247, 253,246,
-            252,245, 249,247,
-            245,247, 243,245, 240,245, 239,246, 236,248, 232,248, 230,247, 230,247" href="https://it.wikipedia.org/wiki/Molise" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/molise.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="211,196, 211,198, 211,201, 208,201, 205,201, 205,205, 203,208, 205,211, 206,212, 209,215, 207,217, 204,217, 202,219, 203,223, 208,226, 211,228, 215,233, 220,234, 223,234, 226,234, 229,238, 233,236, 237,231, 241,229, 244,231, 245,232, 248,230, 250,227, 252,225, 254,221,
-            251,218, 245,213,
-            242,209, 239,207, 236,204, 232,198, 230,192, 228,190, 228,190, 227,190, 222,190, 219,191, 217,193, 215,196, 213,198, 211,196, 211,196" href="https://it.wikipedia.org/wiki/Abruzzo" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/abruzzo.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="155,209, 158,212, 161,217, 168,222, 172,227, 177,232, 183,239, 186,243, 189,246, 194,247, 196,250, 199,252, 206,252, 209,252, 210,253, 213,255, 218,256, 222,257, 224,257, 224,253, 226,249, 229,247, 230,245, 230,241, 229,238, 229,238, 229,238, 226,234, 223,234, 220,234,
-            215,233, 211,228,
-            208,226, 203,223, 202,219, 204,217, 207,217, 209,215, 206,212, 205,211, 203,208, 205,205, 205,201, 208,201, 211,201, 211,198, 211,196, 211,196, 211,195, 208,194, 207,193, 207,193, 206,193, 204,197, 200,199, 196,201, 192,205, 190,207, 189,208, 187,209, 183,206, 180,202, 178,199, 175,197, 171,197, 170,195, 168,194, 168,191,
-            168,189, 167,189, 165,189, 163,192, 163,196, 160,198, 158,201, 159,203, 158,204, 156,205, 157,207, 156,208, 155,209, 155,209" href="https://it.wikipedia.org/wiki/Lazio" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/lazio.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="177,154, 177,150, 178,147, 182,148, 184,146, 185,145, 187,148, 188,152, 192,152, 193,148, 193,147, 193,147, 195,148, 198,150, 200,153, 203,156, 211,161, 217,164, 219,165, 221,170, 223,174, 225,178, 226,180, 228,183, 228,189, 227,190, 222,190, 219,191, 217,193, 215,196,
-            213,198, 211,195,
-            208,194, 207,193, 207,193, 208,191, 207,189, 205,188, 203,186, 200,186, 199,184, 200,182, 199,179, 198,176, 198,175, 197,175, 196,172, 195,169, 192,166, 190,165, 188,165, 183,164, 181,162, 179,162, 179,161, 179,159, 181,157, 178,155, 177,154, 177,154" href="https://it.wikipedia.org/wiki/Marche" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/marche.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="168,189, 168,191, 168,194, 170,195, 171,197, 175,197, 178,199, 180,202, 183,206, 187,209, 189,208, 190,207, 192,205, 196,201, 200,199, 204,197, 206,193, 208,191, 207,189, 205,188, 203,186, 200,186, 199,184, 200,182, 199,179, 198,176, 198,175, 197,175, 196,172, 195,169,
-            192,166, 190,165,
-            188,165, 183,164, 181,162, 179,162, 179,161, 177,162, 174,164, 173,166, 174,169, 175,169, 175,171, 173,174, 171,175, 170,177, 169,178, 169,182, 170,184, 169,187, 168,189, 168,189" href="https://it.wikipedia.org/wiki/Umbria" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/umbria.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="143,211, 144,212, 143,214, 141,214, 140,213, 141,211, 143,211, 143,211" href="https://it.wikipedia.org/wiki/Toscana" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/toscana.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="136,205, 136,206, 136,208, 133,207, 134,206, 136,205, 136,205" href="https://it.wikipedia.org/wiki/Toscana" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/toscana.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="111,196, 112,197, 111,198, 109,197, 111,196" href="https://it.wikipedia.org/wiki/Toscana" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/toscana.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="121,186, 122,188, 123,189, 122,190, 121,193, 116,193, 112,192, 110,192, 110,189, 112,187, 112,186, 114,186, 117,186, 121,186, 121,186" href="https://it.wikipedia.org/wiki/Toscana" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/toscana.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="106,178, 106,179, 105,180, 104,178, 106,178, 106,178" href="https://it.wikipedia.org/wiki/Toscana" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/toscana.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="177,154, 178,155, 181,157, 179,159, 179,161, 177,162, 174,164, 173,166, 174,169, 175,169, 175,171, 173,174, 171,175, 170,177, 169,178, 169,182, 170,184, 169,187, 168,189, 167,189, 165,189, 163,192, 163,196, 160,198, 158,201, 159,203, 158,204, 156,205, 157,207, 156,208,
-            153,209, 151,207,
-            148,207, 145,207, 143,204, 144,200, 140,196, 137,192, 133,189, 132,186, 129,184, 127,184, 126,183, 126,179, 126,176, 127,173, 126,170, 121,165, 118,160, 119,156, 119,152, 116,147, 114,144, 112,142, 111,141, 111,136, 109,134, 109,132, 107,131, 107,128, 105,127, 105,126, 107,126, 109,124, 112,123, 114,125, 117,128, 121,130,
-            124,133, 127,134, 131,136, 133,137, 136,137, 137,137, 138,139, 143,139, 146,138, 152,137, 155,136, 158,138, 159,139, 160,139, 162,140, 162,141, 162,146, 162,149, 164,151, 166,153, 168,153, 172,156, 177,154, 177,154" href="https://it.wikipedia.org/wiki/Toscana" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/toscana.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="152,104, 149,105, 145,105, 142,106, 139,107, 136,106, 134,104, 132,105, 130,105, 126,104, 123,103, 121,101, 119,101, 118,101, 117,99, 115,98, 112,97, 109,97, 103,97, 98,98, 96,100, 94,103, 94,105, 95,107, 96,109, 95,109, 93,111, 91,112, 90,112, 90,112, 90,114, 91,115,
-            93,116, 96,116, 97,118,
-            98,120, 99,122, 102,123, 103,124, 104,124, 104,125, 105,126, 107,126, 109,124, 112,123, 114,125, 117,128, 121,130, 124,133, 127,134, 131,136, 133,137, 136,137, 137,137, 138,139, 143,139, 146,138, 152,137, 155,136, 158,138, 159,139, 160,139, 162,140, 162,141, 162,146, 162,149, 164,151, 166,153, 168,153, 172,156, 177,154,
-            177,150, 178,147, 182,148, 184,146, 185,145, 187,148, 188,152, 192,152, 193,148, 193,145, 190,141, 187,138, 183,133, 182,130, 182,128, 182,127, 182,121, 181,119, 180,118, 180,114, 180,111, 180,110, 179,108, 177,106, 173,105, 169,105, 166,104, 162,105, 158,106, 154,105, 152,104" href="https://it.wikipedia.org/wiki/Emilia-Romagna" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/emilia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="43,133, 43,135, 43,138, 41,140, 40,141, 38,144, 39,147, 40,147, 45,147, 46,146, 47,145, 50,143, 56,143, 59,142, 60,140, 61,137, 64,134, 66,131, 67,130, 69,128, 72,127, 73,126, 76,126, 78,124, 81,124, 83,125, 85,126, 88,127, 89,129, 92,129, 94,130, 97,133, 101,135,
-            103,137, 106,140, 111,141,
-            111,136, 109,134, 109,132, 107,131, 107,128, 105,127, 104,125, 104,124, 103,124, 102,123, 99,122, 98,120, 97,118, 96,116, 93,116, 91,115, 90,114, 86,115, 81,115, 79,117, 74,117, 71,118, 69,119, 66,121, 63,119, 61,120, 59,122, 57,126, 55,130, 53,131, 53,132, 51,133, 47,132, 43,133, 43,133" href="https://it.wikipedia.org/wiki/Liguria" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/liguria.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            <area shape="poly" alt="" coords="202,76, 203,76, 204,75, 208,75, 209,75, 209,77, 211,78, 214,76, 216,75, 218,76, 220,78, 221,81, 223,83, 226,81, 227,78, 226,76, 224,74, 222,72, 220,71, 220,69, 220,65, 219,64, 218,64, 218,63, 217,62, 217,59, 216,56, 215,54, 213,52, 213,49, 215,48, 216,46, 218,45,
-            219,43, 218,40, 215,40,
-            213,40, 211,39, 208,38, 204,38, 203,38, 204,37, 202,37, 197,37, 195,37, 194,36, 192,36, 192,36, 192,37, 191,41, 191,43, 189,45, 187,46, 186,48, 184,50, 184,51, 183,54, 182,55, 183,57, 185,57, 185,58, 184,63, 185,65, 187,67, 188,68, 189,70, 193,70, 196,68, 197,70, 199,71, 200,73, 201,74, 202,76, 202,76" href="https://it.wikipedia.org/wiki/Friuli" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/friuli.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="137,70, 139,70, 141,71, 143,73, 147,74, 147,71, 149,69, 150,67, 153,66, 155,64, 156,64, 158,64, 160,64, 161,62, 164,61, 163,60, 166,59, 167,57, 170,56, 170,51, 169,49, 168,49, 168,46, 167,44, 168,42, 171,41, 171,39, 173,37, 176,38, 178,37, 181,37, 183,35, 185,34,
-            185,34, 185,34, 186,35,
-            190,34, 192,37, 191,41, 191,43, 189,45, 187,46, 186,48, 184,50, 184,51, 183,54, 182,55, 183,57, 185,57, 185,58, 184,63, 185,65, 186,67, 188,68, 189,70, 193,70, 194,68, 196,68, 197,70, 199,71, 200,73, 200,74, 202,76, 201,78, 198,79, 197,79, 196,82, 195,84, 193,85, 190,86, 188,87, 186,85, 182,85, 181,87, 180,88, 179,90, 177,91,
-            177,93, 177,94, 179,96, 180,98, 182,100, 184,102, 184,106, 183,109, 180,110, 179,108, 177,106, 173,105, 169,105, 166,104, 162,105, 158,106, 154,105, 152,104, 150,103, 146,100, 142,96, 139,91, 136,89, 136,85, 135,84, 134,83, 133,79, 134,77, 135,74, 138,72, 137,70, 137,70" href="https://it.wikipedia.org/wiki/Veneto" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/veneto.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="137,70, 137,69, 135,67, 131,68, 129,67, 128,65, 129,64, 129,61, 130,59, 131,58, 131,55, 131,52, 129,51, 130,47, 132,46, 131,43, 128,40, 127,37, 126,36, 126,36, 127,34, 127,28, 128,26, 129,25, 131,25, 134,25, 135,25, 136,27, 138,26, 139,27, 141,26, 143,26, 145,24,
-            147,24, 149,22, 152,21,
-            154,20, 158,20, 161,20, 163,21, 167,19, 169,18, 172,17, 175,17, 176,19, 177,22, 177,25, 180,26, 180,28, 182,30, 183,31, 185,32, 186,34, 183,35, 181,37, 178,37, 176,38, 173,37, 171,39, 171,41, 168,42, 167,44, 168,46, 168,49, 169,49, 170,51, 170,56, 167,57, 166,59, 163,60, 164,61, 161,62, 160,64, 158,64, 156,64, 155,64, 153,66,
-            150,67, 149,69, 147,71, 147,74, 143,73, 141,71, 139,70, 137,70, 137,70" href="https://it.wikipedia.org/wiki/Trentino-Alto_Adige" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/trentino.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="91,112, 93,111, 95,109, 96,109, 95,107, 94,105, 94,103, 96,100, 98,98, 103,97, 109,97, 112,97, 115,98, 117,99, 118,101, 119,101, 121,101, 123,103, 126,104, 130,105, 132,105, 134,104, 136,106, 139,107, 142,106, 145,105, 149,105, 152,104, 150,103, 146,100, 142,96,
-            139,91, 136,89, 136,85,
-            135,84, 134,83, 133,79, 134,77, 135,74, 138,72, 137,69, 135,67, 131,68, 129,67, 128,65, 129,64, 129,61, 130,59, 131,58, 131,55, 131,52, 129,51, 130,47, 132,46, 131,43, 128,40, 127,37, 124,34, 121,34, 118,35, 116,37, 116,39, 117,44, 117,48, 117,51, 115,51, 114,49, 113,47, 112,46, 110,44, 108,45, 106,47, 103,47, 102,46, 102,44,
-            102,39, 101,38, 100,38, 98,36, 96,38, 94,39, 94,41, 94,43, 92,45, 91,47, 91,50, 90,51, 89,53, 87,55, 87,58, 87,60, 86,63, 85,63, 83,62, 82,60, 81,58, 79,55, 78,57, 77,59, 75,61, 75,63, 75,65, 76,69, 77,71, 77,74, 77,77, 79,80, 79,84, 78,85, 75,86, 73,87, 74,90, 76,91, 76,96, 79,96, 80,98, 83,99, 84,102, 86,104, 87,107,
-            90,109,
-            90,112, 91,112" href="https://it.wikipedia.org/wiki/Lombardia" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/lombardia.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="55,58, 58,55, 61,49, 62,45, 65,42, 69,40, 72,40, 73,42, 73,45, 73,49, 74,51, 77,53, 79,56, 78,57, 77,59, 75,61, 75,63, 75,65, 76,69, 77,72, 77,74, 77,77, 79,80, 79,84, 78,85, 75,86, 73,87, 74,90, 76,91, 76,96, 79,97, 80,98, 83,99, 84,102, 86,104, 87,107, 90,110,
-            90,112, 90,114, 86,115,
-            81,115, 79,117, 74,117, 71,118, 69,119, 66,121, 63,119, 61,120, 59,122, 57,126, 55,130, 53,131, 53,132, 51,133, 47,133, 43,133, 40,132, 38,132, 35,133, 30,132, 27,127, 23,123, 21,119, 21,114, 23,111, 24,108, 26,106, 23,103, 20,100, 19,99, 18,97, 18,92, 22,90, 26,88, 28,84, 30,82, 31,79, 32,78, 32,78, 32,79, 38,79, 44,79,
-            50,79, 53,77, 56,76, 56,73, 56,69, 54,68, 53,68, 53,65, 55,64, 55,59, 55,58, 55,58" href="https://it.wikipedia.org/wiki/Piemonte" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/piemonte.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-            
-            <area shape="poly" alt="" coords="25,61, 26,60, 28,58, 31,59, 33,60, 34,60, 37,58, 44,58, 46,59, 48,59, 53,59, 55,58, 55,59, 55,64, 53,65, 53,68, 54,68, 56,69, 56,73, 56,76, 53,77, 50,79, 44,79, 38,79, 32,79, 29,75, 26,73, 25,71, 24,70, 23,66, 22,65, 21,63, 23,60, 25,61, 25,61" href="https://it.wikipedia.org/wiki/Valle_d%27Aosta" target="_blank" onmouseover="document.getElementById ('mappa_regioni'). src = 'http://www.ingegnosohidalgo.it/img/mappa_regioni/aosta.jpg'" onmouseout="document.getElementById ('mappa_regioni'). src = 'img/mappa_regioni.jpg'">
-          </map>
-        </div>
-        <div id="current_region" class="col-8">
-          
+        <p>
+          Il <em>Dipartimento della Protezione Civile</em> ha elaborato un cruscotto geografico interattivo raggiungibile agli indirizzi <a href="http://arcg.is/C1unv" class="text-decoration-none">http://arcg.is/C1unv</a> (versione desktop) e <a href="http://arcg.is/081a51" class="text-decoration-none">http://arcg.is/081a51</a> (versione mobile), contenente informazioni dettagliate sull'andamento nazionale.
+        </p>
+        <div class="row">
+          <div id="italy_map" class="col"> </div>
+          <div class="col"> 
+            <p>Qui di seguito sono rappresentati due grafici:</p>
+            <p>Andamento regionale:</p>
+            <ul>
+              <li>Nuovi positivi giorno per giorno</li>
+              <li>Positivi attualmente, totali</li>
+              <li>Guariti (e dimessi)</li>
+              <li>Deceduti</li>
+            </ul>
+            <p>Rapporto tra casi positivi e tamponi effettuati:</p>
+            <ul>
+              <li>Rapporto tra numero positivi e tamponi effettuati su base regionale </li>
+              <li>Rapporto tra numero positivi e tamponi effettuati su base nazionale</li>
+            </ul>
+            <p>Cliccando sulla regione è possibile contestualizzare i dati</p>
           </div>
-      </div>
+        </div>
+        <div id="current_region">
+        
+        </div>  
     </div>
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js" crossorigin="anonymous"></script> 
-    <script src="js/main.js"></script>
   </body>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="js/jquery-jvectormap-2.0.5.css" type="text/css" media="screen">
+
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  
+  <script src="js/jquery-jvectormap-2.0.5.min.js"></script> 
+  <script src="js/jquery-jvectormap-it_regions-mill.js"></script> 
+ 
+  <!-- Custom JavaScript -->
+  <script src="js/main.js"></script>
 </html>
