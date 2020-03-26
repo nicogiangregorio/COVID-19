@@ -42,10 +42,11 @@ $("#italy_map").vectorMap({
         }
       },
       onRegionClick: function(e, code) {
-        $('#current_region').load("html/" + code + ".html");
-        adjustPlot()
-        $('html, body').animate({
-          scrollTop: $("#graph1").offset().top
-      });
+        $('#current_region').load("html/" + code + ".html", function(){
+          adjustPlot()
+            $('html, body').animate({
+              scrollTop: $("#graph1").offset().top
+          });  
+        });
       }
 });
