@@ -1,5 +1,6 @@
 function adjustPlot() {
-    window_height = $(window).height() * 0.8;
+  window_height = $(window).height() * 0.8;
+  if($('#graph1').length && $('#graph2')) {
     var width_graph1 = $('#graph1').innerWidth();
     var pad_left_graph1  = parseInt($('#graph1').css('margin-left'));
     var pad_right_graph1 = parseInt($('#graph1').css('margin-right'))
@@ -12,6 +13,7 @@ function adjustPlot() {
     Plotly.relayout(graph2_id, {width: max_width_graph1, height: window_height})
     
     $('#graph2').css('margin-top', '75px')
+  }
 }
 
 window.addEventListener('resize', adjustPlot);
