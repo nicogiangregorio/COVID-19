@@ -19,12 +19,12 @@ def build_plot(region_id, regional_frame, national_frame):
                     name="Guariti"))
     fig1.add_trace(go.Scatter(
                     x=regional_frame['data'],
-                    y=regional_frame['totale_attualmente_positivi'],
+                    y=regional_frame['totale_positivi'],
                     mode='lines+markers',
                     name="Positivi attualmente"))
     fig1.add_trace(go.Scatter(
                     x=regional_frame['data'],
-                    y=regional_frame['nuovi_attualmente_positivi'],
+                    y=regional_frame['nuovi_positivi'],
                     mode='lines+markers',
                     name="Nuovi positivi"))
     fig1.update_layout(legend_orientation="h")
@@ -46,5 +46,4 @@ def build_plot(region_id, regional_frame, national_frame):
     out1 = fig1.to_html(include_plotlyjs=False, full_html=False)
     out2 = fig2.to_html(include_plotlyjs=False, full_html=False)
 
-    fig2.write_html('temp.html',full_html=False, auto_open=True)
     return {'graph1': out1, 'graph2': out2}

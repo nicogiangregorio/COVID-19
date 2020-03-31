@@ -51,7 +51,7 @@ class DataLoader(object):
         
         for key, value in region_data.items():
             df_t = df.loc[df['codice_regione'] == key]
-            df_t['ratio_positivi_tamponi'] = round(100 * df_t['totale_attualmente_positivi'] / df_t['tamponi'], 2)
+            df_t['ratio_positivi_tamponi'] = round(100 * df_t['totale_positivi'] / df_t['tamponi'], 2)
             df_t = df_t.replace([np.inf, -np.inf], np.nan)
             df_t.fillna(0, inplace = True)
             region_data[key] = df_t
@@ -64,8 +64,9 @@ class DataLoader(object):
                     'terapia_intensiva',
                     'totale_ospedalizzati',
                     'isolamento_domiciliare',
-                    'totale_attualmente_positivi',
-                    'nuovi_attualmente_positivi',
+                    'totale_positivi',
+                    'variazione_totale_positivi',
+                    'nuovi_positivi',
                     'dimessi_guariti',
                     'deceduti',
                     'totale_casi',
@@ -73,13 +74,13 @@ class DataLoader(object):
         df_t['denominazione_regione'] = 'Trenino Alto Adige'
         df_t['lat'] = '46.06893511'
         df_t['long'] = '11.12123097'
-        df_t['ratio_positivi_tamponi'] = round(100 * df_t['totale_attualmente_positivi'] / df_t['tamponi'], 2)
+        df_t['ratio_positivi_tamponi'] = round(100 * df_t['totale_positivi'] / df_t['tamponi'], 2)
         region_data[4] = df_t
         return region_data
 
     def __load_national_data(self):
         df = pd.read_csv(national_data_path).drop_duplicates()
-        df['ratio_positivi_tamponi'] = round(100 * df['totale_attualmente_positivi'] / df['tamponi'], 2)
+        df['ratio_positivi_tamponi'] = round(100 * df['totale_positivi'] / df['tamponi'], 2)
         df = df.replace([np.inf, -np.inf], np.nan)
         df.fillna(0, inplace = True)
         return df
