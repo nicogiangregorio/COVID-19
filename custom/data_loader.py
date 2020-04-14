@@ -71,7 +71,7 @@ class DataLoader(object):
                     'deceduti',
                     'totale_casi',
                     'tamponi'].apply(lambda x : x.astype(int).sum()).reset_index()
-        df_t['denominazione_regione'] = 'Trenino Alto Adige'
+        df_t['denominazione_regione'] = 'Trentino Alto Adige'
         df_t['lat'] = '46.06893511'
         df_t['long'] = '11.12123097'
         df_t['ratio_positivi_tamponi'] = round(100 * df_t['totale_positivi'] / df_t['tamponi'], 2)
