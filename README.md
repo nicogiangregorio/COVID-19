@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visualizzazione Dati COVID-19 Regioni
 
 Questo progetto è un fork del repository ufficiale del [Dipartimento della Protezione Civile](https://github.com/pcm-dpc/COVID-19/).
@@ -45,6 +46,15 @@ Le personalizzazioni apportate sono di due tipologie:
 - Add: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
 - Change: Regione "Emilia Romagna" renamed to "Emilia-Romagna" in "dati-regioni" and "dati-province" ("denominazione_regione")
 =======
+=======
+<img src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" alt="COVID-19" data-canonical-src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" width="400" />
+
+Dati aggiornati quotidianamente alle 18:30<br>
+Ultimo aggiornamento: 15/04/2020 @ 18:30
+
+# Dati COVID-19 Italia
+
+>>>>>>> upstream/master
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
  
@@ -72,6 +82,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 ## Avvisi
 
 ```diff
+- 15/04/2020: dati Regione Friuli Venezia Giulia ricalcolati (ricalcolo di isolamento domiciliare e dimessi/guariti)
 - 12/04/2020: dati P.A. Bolzano ricalcolati (ricalcolo dati guariti -110 rispetto a ieri).
 - 10/04/2020: dati Regione Molise parziali (dato tamponi non aggiornato).
 - 29/03/2020: dati Regione Emilia-Romagna parziali (dato tamponi non aggiornato).
