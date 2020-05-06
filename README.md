@@ -53,6 +53,9 @@ Le personalizzazioni apportate sono di due tipologie:
 
 # Dati COVID-19 Italia
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
@@ -61,6 +64,9 @@ Le personalizzazioni apportate sono di due tipologie:
 [https://github.com/pcm-dpc/COVID-19/issues/625](https://github.com/pcm-dpc/COVID-19/issues/625)<br><br>
 
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 
@@ -142,6 +148,7 @@ COVID-19/
 ```
 
 ## Aggiornamento dei dati
+<<<<<<< HEAD
 
 - Dati andamento COVID-19 Italia: ogni giorno alle 18:00<br>
 - Dati contratti DPC COVID-19 di fornitura: continua (ogni volta che vengono effettuate operazioni sui contratti)
@@ -282,6 +289,21 @@ Data provided by the Ministry of Health <br>
 Processing and data management by the Department of Civil Protection
 >>>>>>> upstream/master
 =======
+- [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
+- [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
+- [Dati aree misure restrittive COVID19](dati_aree-nazionali-subregionali-misure-restrittive-covid19.md)
+
+## Licenza
+
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
+>>>>>>> upstream/master
+=======
+
+- Dati andamento COVID-19 Italia: ogni giorno alle 18:00<br>
+- Dati contratti DPC COVID-19 di fornitura: continua (ogni volta che vengono effettuate operazioni sui contratti)
+
+## Formato dei dati
+
 - [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
 - [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
 - [Dati aree misure restrittive COVID19](dati_aree-nazionali-subregionali-misure-restrittive-covid19.md)

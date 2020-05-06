@@ -70,6 +70,13 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - API Rest (Json) private beta
 - GraphQL private beta
 
+<<<<<<< HEAD
+=======
+## 2020-05-06
+
+- Aggiunta: aggiornamento al 03/05/2020 shape file e relativi metadata con misure di contenimento a livello subregionale (province, comuni e frazioni).
+
+>>>>>>> upstream/master
 ## Prossimi aggiornamenti
 
 - Cambio codice_regione P.A. Bolzano e P.A. Trento: da 04 a 21 per P.A. Bolzano e da 04 a 22 per P.A. Trento (codice provincia)
