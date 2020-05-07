@@ -1,9 +1,13 @@
 [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
@@ -14,18 +18,26 @@
         "lat": 42.35103167,
         "long": 14.16754574,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 767,
 =======
         "totale_casi": 764,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 767,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
@@ -35,15 +47,19 @@
         "sigla_provincia": "AQ",
         "lat": 42.35122196,
         "long": 13.39843823,
-        "totale_casi": 242,
+        "totale_casi": 243,
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
@@ -54,18 +70,26 @@
         "lat": 42.46458398,
         "long": 14.21364822,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1375,
 =======
         "totale_casi": 1400,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1421,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
@@ -81,9 +105,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
@@ -99,9 +127,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 17,
@@ -121,9 +153,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 17,
@@ -134,18 +170,26 @@
         "lat": 40.63947052,
         "long": 15.80514834,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 196,
 =======
         "totale_casi": 197,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 181,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 17,
@@ -161,9 +205,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 4,
@@ -174,18 +222,26 @@
         "lat": 46.49933453,
         "long": 11.35662422,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2542,
 =======
         "totale_casi": 2543,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2552,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 4,
@@ -201,9 +257,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -214,18 +274,26 @@
         "lat": 38.90597598,
         "long": 16.59440194,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 208,
 =======
         "totale_casi": 209,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 210,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -235,15 +303,19 @@
         "sigla_provincia": "CS",
         "lat": 39.29308681,
         "long": 16.25609692,
-        "totale_casi": 459,
+        "totale_casi": 460,
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -259,9 +331,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -272,18 +348,26 @@
         "lat": 38.10922769,
         "long": 15.6434527,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 257,
 =======
         "totale_casi": 259,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 260,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -299,9 +383,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -317,9 +405,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
@@ -339,9 +431,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
@@ -351,15 +447,19 @@
         "sigla_provincia": "BN",
         "lat": 41.12969987,
         "long": 14.78151683,
-        "totale_casi": 186,
+        "totale_casi": 189,
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
@@ -379,9 +479,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
@@ -392,18 +496,26 @@
         "lat": 40.83956555,
         "long": 14.25084984,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2486,
 =======
         "totale_casi": 2501,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2506,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
@@ -423,9 +535,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
@@ -436,18 +552,26 @@
         "lat": 0,
         "long": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 291,
 =======
         "totale_casi": 282,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 283,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -458,18 +582,26 @@
         "lat": 44.49436681,
         "long": 11.3417208,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 4619,
 =======
         "totale_casi": 4646,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 4685,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -480,18 +612,26 @@
         "lat": 44.83599085,
         "long": 11.61868934,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 940,
 =======
         "totale_casi": 951,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 960,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -502,18 +642,26 @@
         "lat": 44.22268559,
         "long": 12.04068608,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1625,
 =======
         "totale_casi": 1644,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1651,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -524,18 +672,26 @@
         "lat": 44.64600009,
         "long": 10.92615487,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 3758,
 =======
         "totale_casi": 3766,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3772,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -546,18 +702,26 @@
         "lat": 44.80107394,
         "long": 10.32834985,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 3230,
 =======
         "totale_casi": 3244,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3260,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -568,18 +732,26 @@
         "lat": 45.05193462,
         "long": 9.692632596,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 4286,
 =======
         "totale_casi": 4295,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 4300,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -590,18 +762,26 @@
         "lat": 44.41722493,
         "long": 12.19913936,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 986,
 =======
         "totale_casi": 990,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 993,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -612,18 +792,26 @@
         "lat": 44.69735289,
         "long": 10.63007973,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 4788,
 =======
         "totale_casi": 4799,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 4812,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -634,18 +822,26 @@
         "lat": 44.06090087,
         "long": 12.5656295,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2043,
 =======
         "totale_casi": 2044,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2054,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -661,9 +857,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
@@ -674,18 +874,26 @@
         "lat": 45.94149817,
         "long": 13.62212502,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 189,
 =======
         "totale_casi": 190,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 192,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
@@ -696,18 +904,26 @@
         "lat": 45.95443546,
         "long": 12.66002909,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 646,
 =======
         "totale_casi": 647,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 648,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
@@ -718,18 +934,26 @@
         "lat": 45.6494354,
         "long": 13.76813649,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1292,
 =======
         "totale_casi": 1298,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1300,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
@@ -740,18 +964,26 @@
         "lat": 46.06255516,
         "long": 13.2348383,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 958,
 =======
         "totale_casi": 959,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 967,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
@@ -767,9 +999,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
@@ -779,15 +1015,19 @@
         "sigla_provincia": "FR",
         "lat": 41.63964569,
         "long": 13.35117161,
-        "totale_casi": 571,
+        "totale_casi": 573,
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
@@ -807,9 +1047,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
@@ -829,9 +1073,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
@@ -842,18 +1090,26 @@
         "lat": 41.89277044,
         "long": 12.48366722,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 5005,
 =======
         "totale_casi": 5080,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 5117,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
@@ -873,9 +1129,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
@@ -891,9 +1151,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
@@ -904,18 +1168,26 @@
         "lat": 44.41149314,
         "long": 8.9326992,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 4923,
 =======
         "totale_casi": 4968,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 5007,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
@@ -926,18 +1198,26 @@
         "lat": 43.88570648,
         "long": 8.027850298,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1376,
 =======
         "totale_casi": 1382,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1389,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
@@ -948,18 +1228,26 @@
         "lat": 44.10704991,
         "long": 9.8281897,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 865,
 =======
         "totale_casi": 868,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 871,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
@@ -970,18 +1258,26 @@
         "lat": 44.30750461,
         "long": 8.481108654,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1304,
 =======
         "totale_casi": 1325,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1370,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
@@ -1001,9 +1297,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1014,18 +1314,26 @@
         "lat": 45.69441368,
         "long": 9.668424528,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 11550,
 =======
         "totale_casi": 11587,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 11622,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1036,18 +1344,26 @@
         "lat": 45.53993052,
         "long": 10.21910323,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 13168,
 =======
         "totale_casi": 13267,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 13391,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1058,18 +1374,26 @@
         "lat": 45.8099912,
         "long": 9.085159546,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 3364,
 =======
         "totale_casi": 3401,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3440,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1080,18 +1404,26 @@
         "lat": 45.13336675,
         "long": 10.02420865,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 6130,
 =======
         "totale_casi": 6151,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 6178,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1102,18 +1434,26 @@
         "lat": 45.85575781,
         "long": 9.393392246,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2371,
 =======
         "totale_casi": 2381,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2419,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1124,18 +1464,26 @@
         "lat": 45.31440693,
         "long": 9.503720769,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 3114,
 =======
         "totale_casi": 3155,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3204,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1146,18 +1494,26 @@
         "lat": 45.15726772,
         "long": 10.79277363,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 3215,
 =======
         "totale_casi": 3217,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3221,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1168,18 +1524,26 @@
         "lat": 45.46679409,
         "long": 9.190347404,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 20398,
 =======
         "totale_casi": 20711,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 20893,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1190,18 +1554,26 @@
         "lat": 45.58439043,
         "long": 9.273582472,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 4881,
 =======
         "totale_casi": 4893,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 4974,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1212,18 +1584,26 @@
         "lat": 45.18509264,
         "long": 9.160157191,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 4551,
 =======
         "totale_casi": 4621,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 4652,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1234,18 +1614,26 @@
         "lat": 46.17099261,
         "long": 9.87147489,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1223,
 =======
         "totale_casi": 1230,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1266,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1256,18 +1644,26 @@
         "lat": 45.81701677,
         "long": 8.822868344,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2891,
 =======
         "totale_casi": 3018,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3073,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
@@ -1278,18 +1674,26 @@
         "lat": 0,
         "long": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1749,
 =======
         "totale_casi": 1737,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1756,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
@@ -1309,9 +1713,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
@@ -1321,15 +1729,19 @@
         "sigla_provincia": "AP",
         "lat": 42.85322304,
         "long": 13.57691127,
-        "totale_casi": 285,
+        "totale_casi": 286,
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
@@ -1349,9 +1761,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
@@ -1362,18 +1778,26 @@
         "lat": 43.30023926,
         "long": 13.45307182,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1042,
 =======
         "totale_casi": 1047,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1050,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
@@ -1384,18 +1808,26 @@
         "lat": 43.91014021,
         "long": 12.91345989,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2586,
 =======
         "totale_casi": 2604,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2630,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
@@ -1406,18 +1838,26 @@
         "lat": 0,
         "long": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 206,
 =======
         "totale_casi": 209,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 210,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 14,
@@ -1428,18 +1868,26 @@
         "lat": 41.55774754,
         "long": 14.65916051,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 226,
 =======
         "totale_casi": 228,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 229,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 14,
@@ -1459,9 +1907,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 14,
@@ -1477,9 +1929,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -1490,18 +1946,26 @@
         "lat": 44.91297351,
         "long": 8.615401155,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 3606,
 =======
         "totale_casi": 3622,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3654,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -1512,18 +1976,26 @@
         "lat": 44.89912921,
         "long": 8.204142547,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1629,
 =======
         "totale_casi": 1641,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1655,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -1534,18 +2006,26 @@
         "lat": 45.5665112,
         "long": 8.054082167,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 993,
 =======
         "totale_casi": 997,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1002,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -1556,18 +2036,26 @@
         "lat": 44.39329625,
         "long": 7.551171632,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2559,
 =======
         "totale_casi": 2587,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2603,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -1578,18 +2066,26 @@
         "lat": 45.44588506,
         "long": 8.621915884,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2394,
 =======
         "totale_casi": 2399,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2434,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -1600,18 +2096,26 @@
         "lat": 45.0732745,
         "long": 7.680687483,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 14018,
 =======
         "totale_casi": 14116,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 14204,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -1622,18 +2126,26 @@
         "lat": 45.9214455,
         "long": 8.551078753,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1067,
 =======
         "totale_casi": 1068,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1069,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -1644,18 +2156,26 @@
         "lat": 45.32398135,
         "long": 8.423234312,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1149,
 =======
         "totale_casi": 1152,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1160,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -1666,18 +2186,26 @@
         "lat": 0,
         "long": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 359,
 =======
         "totale_casi": 357,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 354,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -1688,18 +2216,26 @@
         "lat": 41.12559576,
         "long": 16.86736689,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1328,
 =======
         "totale_casi": 1333,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1362,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -1719,9 +2255,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -1732,18 +2272,26 @@
         "lat": 40.63848545,
         "long": 17.94601575,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 590,
 =======
         "totale_casi": 597,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 600,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -1754,18 +2302,26 @@
         "lat": 41.46226865,
         "long": 15.54305094,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1077,
 =======
         "totale_casi": 1088,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1098,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -1776,18 +2332,26 @@
         "lat": 40.35354285,
         "long": 18.1718973,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 498,
 =======
         "totale_casi": 500,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 502,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -1798,18 +2362,26 @@
         "lat": 40.47354739,
         "long": 17.23237181,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 265,
 =======
         "totale_casi": 268,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 270,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -1820,18 +2392,26 @@
         "lat": 0,
         "long": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 33,
 =======
         "totale_casi": 30,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 33,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -1847,9 +2427,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -1865,9 +2449,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -1883,9 +2471,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -1896,18 +2488,26 @@
         "lat": 40.72667657,
         "long": 8.559667131,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 848,
 =======
         "totale_casi": 849,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 854,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -1923,9 +2523,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -1941,9 +2545,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -1959,9 +2567,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -1977,9 +2589,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -1990,18 +2606,26 @@
         "lat": 37.50287803,
         "long": 15.08704691,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1012,
 =======
         "totale_casi": 1021,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1027,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -2021,9 +2645,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -2043,9 +2671,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -2056,18 +2688,26 @@
         "lat": 38.11569725,
         "long": 13.3623567,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 521,
 =======
         "totale_casi": 522,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 523,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -2083,9 +2723,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -2101,9 +2745,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -2119,9 +2767,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -2137,9 +2789,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2150,18 +2806,26 @@
         "lat": 43.46642752,
         "long": 11.88228844,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 652,
 =======
         "totale_casi": 654,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 655,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2172,18 +2836,26 @@
         "lat": 43.76923077,
         "long": 11.25588885,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 3242,
 =======
         "totale_casi": 3257,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3275,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2203,9 +2875,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2215,15 +2891,19 @@
         "sigla_provincia": "LI",
         "lat": 43.55234873,
         "long": 10.3086781,
-        "totale_casi": 529,
+        "totale_casi": 530,
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2234,18 +2914,26 @@
         "lat": 43.84432283,
         "long": 10.50151366,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1310,
 =======
         "totale_casi": 1314,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1316,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2255,15 +2943,19 @@
         "sigla_provincia": "MS",
         "lat": 44.03674425,
         "long": 10.14173829,
-        "totale_casi": 1020,
+        "totale_casi": 1021,
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2274,18 +2966,26 @@
         "lat": 43.71553206,
         "long": 10.40127259,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 860,
 =======
         "totale_casi": 862,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 863,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2301,9 +3001,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2314,18 +3018,26 @@
         "lat": 43.88062274,
         "long": 11.09703315,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 531,
 =======
         "totale_casi": 533,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 535,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2341,9 +3053,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -2359,9 +3075,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 4,
@@ -2372,18 +3092,26 @@
         "lat": 46.06893511,
         "long": 11.12123097,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 4261,
 =======
         "totale_casi": 4280,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 4283,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 4,
@@ -2399,9 +3127,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
@@ -2412,18 +3144,26 @@
         "lat": 43.10675841,
         "long": 12.38824698,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 992,
 =======
         "totale_casi": 993,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 994,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
@@ -2443,9 +3183,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
@@ -2465,9 +3209,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 2,
@@ -2478,18 +3226,26 @@
         "lat": 45.73750286,
         "long": 7.320149366,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1143,
 =======
         "totale_casi": 1146,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1150,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 2,
@@ -2505,9 +3261,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
@@ -2518,18 +3278,26 @@
         "lat": 46.13837528,
         "long": 12.21704167,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 1140,
 =======
         "totale_casi": 1141,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1142,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
@@ -2540,18 +3308,26 @@
         "lat": 45.40692987,
         "long": 11.87608718,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 3876,
 =======
         "totale_casi": 3879,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3885,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
@@ -2562,18 +3338,26 @@
         "lat": 45.07107289,
         "long": 11.79007,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 429,
 =======
         "totale_casi": 430,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 429,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
@@ -2584,18 +3368,26 @@
         "lat": 45.66754571,
         "long": 12.24507363,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2560,
 =======
         "totale_casi": 2563,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2565,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
@@ -2606,18 +3398,26 @@
         "lat": 45.43490485,
         "long": 12.33845213,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2519,
 =======
         "totale_casi": 2550,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2568,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
@@ -2628,18 +3428,26 @@
         "lat": 45.43839046,
         "long": 10.99352685,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 4831,
 =======
         "totale_casi": 4860,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 4897,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
@@ -2650,18 +3458,26 @@
         "lat": 45.547497,
         "long": 11.54597109,
 <<<<<<< HEAD
+<<<<<<< HEAD
         "totale_casi": 2722,
 =======
         "totale_casi": 2732,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2743,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-07T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
