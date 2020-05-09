@@ -72,12 +72,18 @@ All changes to the project, new features and information are documented in this 
 - GraphQL private beta
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 ## 2020-05-06
 
 - Add: update to 03/05/2020 shape file with subregional containment measures (provinces, municipalities and hamlets) with related metadata.
 
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Next update
 

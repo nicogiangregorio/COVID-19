@@ -19,7 +19,11 @@
 		<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+=======
+                        <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+>>>>>>> upstream/master
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
 >>>>>>> upstream/master
@@ -118,7 +122,11 @@
 						<gmd:CI_Date>
 							<gmd:date>
 <<<<<<< HEAD
+<<<<<<< HEAD
 								<gco:Date>2020-04-20</gco:Date>
+=======
+								<gco:Date>2020-05-03</gco:Date>
+>>>>>>> upstream/master
 =======
 								<gco:Date>2020-05-03</gco:Date>
 >>>>>>> upstream/master
@@ -139,7 +147,11 @@
 						<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+=======
+                        <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+>>>>>>> upstream/master
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
 >>>>>>> upstream/master
@@ -176,7 +188,11 @@
 						<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+=======
+                        <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+>>>>>>> upstream/master
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
 >>>>>>> upstream/master
@@ -241,7 +257,11 @@
 				<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+=======
+                        <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+>>>>>>> upstream/master
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
 >>>>>>> upstream/master
@@ -481,7 +501,11 @@
 						<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+=======
+                        <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+>>>>>>> upstream/master
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
 >>>>>>> upstream/master

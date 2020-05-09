@@ -699,7 +699,10 @@
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo nuovi casi e guariti"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
     },
     {
         "codice": "dc-IT-0020",
@@ -729,8 +732,11 @@
         "avviso": "ricalcolo delle informazioni",
         "note": "aggiornamento dimessi guariti (aumento)"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
     },
     {
         "codice": "dc-IT-0022",
@@ -760,8 +766,11 @@
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo casi positivi (diminuzione)"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
     },
     {
         "codice": "dc-IT-0024",
@@ -790,6 +799,9 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo casi positivi (diminuzione)"
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
     }
 ]

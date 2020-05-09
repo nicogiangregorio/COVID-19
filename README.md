@@ -149,12 +149,16 @@ COVID-19/
 
 ## Aggiornamento dei dati
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> upstream/master
 
 - Dati andamento COVID-19 Italia: ogni giorno alle 18:00<br>
 - Dati contratti DPC COVID-19 di fornitura: continua (ogni volta che vengono effettuate operazioni sui contratti)
 
 ## Formato dei dati
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### Dati per Regione
 
@@ -304,6 +308,8 @@ Processing and data management by the Department of Civil Protection
 
 ## Formato dei dati
 
+=======
+>>>>>>> upstream/master
 - [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
 - [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
 - [Dati aree misure restrittive COVID19](dati_aree-nazionali-subregionali-misure-restrittive-covid19.md)
@@ -311,4 +317,7 @@ Processing and data management by the Department of Civil Protection
 ## Licenza
 
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master

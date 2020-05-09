@@ -71,11 +71,17 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - GraphQL private beta
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 ## 2020-05-06
 
 - Aggiunta: aggiornamento al 03/05/2020 shape file e relativi metadata con misure di contenimento a livello subregionale (province, comuni e frazioni).
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Prossimi aggiornamenti
 

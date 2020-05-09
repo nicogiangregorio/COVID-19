@@ -671,7 +671,10 @@
         "avviso": "recalculation of information",
         "note": "recalculation of new positives and recovered"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
     },
     {
         "codice": "dc-EN-0020",
@@ -701,8 +704,11 @@
         "avviso": "recalculation of information",
         "note": "update of recovered people (increase)"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
     },
     {
         "codice": "dc-EN-0022",
@@ -732,8 +738,11 @@
         "avviso": "recalculation of information",
         "note": "recalculation of positives (decrease)"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
     },
     {
         "codice": "dc-EN-0024",
@@ -762,6 +771,9 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "recalculation of positives (decrease)"
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
     }
 ]
