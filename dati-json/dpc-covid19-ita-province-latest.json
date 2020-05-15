@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -37,6 +38,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -45,6 +49,7 @@
         "sigla_provincia": "CH",
         "lat": 42.35103167,
         "long": 14.16754574,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -70,10 +75,14 @@
 =======
         "totale_casi": 778,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 783,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -110,6 +119,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
@@ -133,6 +145,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -161,6 +174,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -169,6 +185,7 @@
         "sigla_provincia": "PE",
         "lat": 42.46458398,
         "long": 14.21364822,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -202,10 +219,14 @@
 =======
         "totale_casi": 1467,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1474,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -242,6 +263,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
@@ -273,6 +297,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -300,6 +325,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
@@ -323,6 +351,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -350,6 +379,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 17,
@@ -393,6 +425,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -420,6 +453,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 17,
@@ -467,6 +503,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -494,6 +531,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 17,
@@ -517,6 +557,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -544,6 +585,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 4,
@@ -599,6 +643,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -626,6 +671,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 4,
@@ -649,6 +697,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -676,6 +725,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -715,6 +767,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -743,6 +796,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -751,7 +807,7 @@
         "sigla_provincia": "CS",
         "lat": 39.29308681,
         "long": 16.25609692,
-        "totale_casi": 465,
+        "totale_casi": 466,
         "note_it": "",
         "note_en": ""
     },
@@ -765,6 +821,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -792,6 +849,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -815,6 +875,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -842,6 +903,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -893,6 +957,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -920,6 +985,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -943,6 +1011,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -970,6 +1039,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -993,6 +1065,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -1021,6 +1094,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -1029,6 +1105,7 @@
         "sigla_provincia": "AV",
         "lat": 40.91404699,
         "long": 14.79528803,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1058,10 +1135,14 @@
 =======
         "totale_casi": 509,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 511,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1098,6 +1179,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
@@ -1121,6 +1205,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -1149,6 +1234,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -1157,6 +1245,7 @@
         "sigla_provincia": "CE",
         "lat": 41.07465878,
         "long": 14.33240464,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1186,10 +1275,14 @@
 =======
         "totale_casi": 434,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 435,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1227,6 +1320,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -1235,6 +1331,7 @@
         "sigla_provincia": "NA",
         "lat": 40.83956555,
         "long": 14.25084984,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1272,10 +1369,14 @@
 =======
         "totale_casi": 2551,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 2563,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1312,6 +1413,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
@@ -1355,6 +1459,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -1382,6 +1487,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
@@ -1441,6 +1549,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -1469,6 +1578,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -1477,6 +1589,7 @@
         "sigla_provincia": "BO",
         "lat": 44.49436681,
         "long": 11.3417208,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1514,10 +1627,14 @@
 =======
         "totale_casi": 4841,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 4853,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1555,6 +1672,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -1563,6 +1683,7 @@
         "sigla_provincia": "FE",
         "lat": 44.83599085,
         "long": 11.61868934,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1588,10 +1709,14 @@
 =======
         "totale_casi": 977,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 978,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1629,6 +1754,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -1637,6 +1765,7 @@
         "sigla_provincia": "FC",
         "lat": 44.22268559,
         "long": 12.04068608,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1674,10 +1803,14 @@
 =======
         "totale_casi": 1695,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1694,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1715,6 +1848,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -1723,6 +1859,7 @@
         "sigla_provincia": "MO",
         "lat": 44.64600009,
         "long": 10.92615487,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1760,10 +1897,14 @@
 =======
         "totale_casi": 3839,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 3849,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1801,6 +1942,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -1809,6 +1953,7 @@
         "sigla_provincia": "PR",
         "lat": 44.80107394,
         "long": 10.32834985,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1842,10 +1987,14 @@
 =======
         "totale_casi": 3346,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 3353,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1883,6 +2032,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -1891,6 +2043,7 @@
         "sigla_provincia": "PC",
         "lat": 45.05193462,
         "long": 9.692632596,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1928,10 +2081,14 @@
 =======
         "totale_casi": 4405,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 4412,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1969,6 +2126,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -1977,6 +2137,7 @@
         "sigla_provincia": "RA",
         "lat": 44.41722493,
         "long": 12.19913936,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2002,10 +2163,14 @@
 =======
         "totale_casi": 1000,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1005,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2043,6 +2208,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -2051,6 +2219,7 @@
         "sigla_provincia": "RE",
         "lat": 44.69735289,
         "long": 10.63007973,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2088,10 +2257,14 @@
 =======
         "totale_casi": 4870,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 4879,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2129,6 +2302,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -2137,6 +2313,7 @@
         "sigla_provincia": "RN",
         "lat": 44.06090087,
         "long": 12.5656295,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2174,10 +2351,14 @@
 =======
         "totale_casi": 2083,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 2087,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2214,6 +2395,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -2237,6 +2421,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -2265,6 +2450,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -2273,6 +2461,7 @@
         "sigla_provincia": "GO",
         "lat": 45.94149817,
         "long": 13.62212502,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2302,10 +2491,14 @@
 =======
         "totale_casi": 198,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 199,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2343,6 +2536,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -2351,6 +2547,7 @@
         "sigla_provincia": "PN",
         "lat": 45.95443546,
         "long": 12.66002909,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2380,10 +2577,14 @@
 =======
         "totale_casi": 659,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 662,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2421,6 +2622,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -2429,6 +2633,7 @@
         "sigla_provincia": "TS",
         "lat": 45.6494354,
         "long": 13.76813649,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2466,10 +2671,14 @@
 =======
         "totale_casi": 1332,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1341,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2507,6 +2716,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -2515,6 +2727,7 @@
         "sigla_provincia": "UD",
         "lat": 46.06255516,
         "long": 13.2348383,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2540,10 +2753,14 @@
 =======
         "totale_casi": 972,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 973,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2580,6 +2797,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
@@ -2603,6 +2823,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -2631,6 +2852,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -2639,6 +2863,7 @@
         "sigla_provincia": "FR",
         "lat": 41.63964569,
         "long": 13.35117161,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2651,6 +2876,9 @@
 >>>>>>> upstream/master
 =======
         "totale_casi": 579,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 580,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
@@ -2665,6 +2893,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -2692,6 +2921,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
@@ -2727,6 +2959,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -2755,6 +2988,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -2763,6 +2999,7 @@
         "sigla_provincia": "RI",
         "lat": 42.40488444,
         "long": 12.86205939,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2792,10 +3029,14 @@
 =======
         "totale_casi": 368,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 376,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2833,6 +3074,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -2841,6 +3085,7 @@
         "sigla_provincia": "RM",
         "lat": 41.89277044,
         "long": 12.48366722,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2878,10 +3123,14 @@
 =======
         "totale_casi": 5308,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 5371,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2919,6 +3168,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -2927,6 +3179,7 @@
         "sigla_provincia": "VT",
         "lat": 42.4173828,
         "long": 12.10473416,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2956,10 +3209,14 @@
 =======
         "totale_casi": 415,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 416,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2996,6 +3253,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
@@ -3027,6 +3287,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -3055,6 +3316,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -3063,6 +3327,7 @@
         "sigla_provincia": "GE",
         "lat": 44.41149314,
         "long": 8.9326992,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3100,10 +3365,14 @@
 =======
         "totale_casi": 5165,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 5227,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3141,6 +3410,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -3149,6 +3421,7 @@
         "sigla_provincia": "IM",
         "lat": 43.88570648,
         "long": 8.027850298,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3186,10 +3459,14 @@
 =======
         "totale_casi": 1456,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1459,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3227,6 +3504,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -3235,6 +3515,7 @@
         "sigla_provincia": "SP",
         "lat": 44.10704991,
         "long": 9.8281897,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3272,10 +3553,14 @@
 =======
         "totale_casi": 899,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 900,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3313,6 +3598,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -3321,6 +3609,7 @@
         "sigla_provincia": "SV",
         "lat": 44.30750461,
         "long": 8.481108654,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3358,10 +3647,14 @@
 =======
         "totale_casi": 1471,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1470,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3398,6 +3691,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
@@ -3437,6 +3733,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -3465,6 +3762,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -3473,6 +3773,7 @@
         "sigla_provincia": "BG",
         "lat": 45.69441368,
         "long": 9.668424528,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3510,10 +3811,14 @@
 =======
         "totale_casi": 12347,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 12371,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3551,6 +3856,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -3559,6 +3867,7 @@
         "sigla_provincia": "BS",
         "lat": 45.53993052,
         "long": 10.21910323,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3596,10 +3905,14 @@
 =======
         "totale_casi": 13948,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 14008,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3637,6 +3950,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -3645,6 +3961,7 @@
         "sigla_provincia": "CO",
         "lat": 45.8099912,
         "long": 9.085159546,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3682,10 +3999,14 @@
 =======
         "totale_casi": 3598,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 3612,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3723,6 +4044,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -3731,6 +4055,7 @@
         "sigla_provincia": "CR",
         "lat": 45.13336675,
         "long": 10.02420865,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3768,10 +4093,14 @@
 =======
         "totale_casi": 6285,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 6303,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3809,6 +4138,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -3817,6 +4149,7 @@
         "sigla_provincia": "LC",
         "lat": 45.85575781,
         "long": 9.393392246,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3854,10 +4187,14 @@
 =======
         "totale_casi": 2599,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 2616,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3895,6 +4232,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -3903,6 +4243,7 @@
         "sigla_provincia": "LO",
         "lat": 45.31440693,
         "long": 9.503720769,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3940,10 +4281,14 @@
 =======
         "totale_casi": 3313,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 3325,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3981,6 +4326,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -3989,6 +4337,7 @@
         "sigla_provincia": "MN",
         "lat": 45.15726772,
         "long": 10.79277363,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4022,10 +4371,14 @@
 =======
         "totale_casi": 3275,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 3281,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4063,6 +4416,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -4071,6 +4427,7 @@
         "sigla_provincia": "MI",
         "lat": 45.46679409,
         "long": 9.190347404,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4108,10 +4465,14 @@
 =======
         "totale_casi": 21900,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 21966,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4149,6 +4510,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -4157,6 +4521,7 @@
         "sigla_provincia": "MB",
         "lat": 45.58439043,
         "long": 9.273582472,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4194,10 +4559,14 @@
 =======
         "totale_casi": 5182,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 5219,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4235,6 +4604,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -4243,6 +4615,7 @@
         "sigla_provincia": "PV",
         "lat": 45.18509264,
         "long": 9.160157191,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4280,10 +4653,14 @@
 =======
         "totale_casi": 4896,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 4919,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4321,6 +4698,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -4329,6 +4709,7 @@
         "sigla_provincia": "SO",
         "lat": 46.17099261,
         "long": 9.87147489,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4366,10 +4747,14 @@
 =======
         "totale_casi": 1338,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1339,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4407,6 +4792,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -4415,6 +4803,7 @@
         "sigla_provincia": "VA",
         "lat": 45.81701677,
         "long": 8.822868344,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4452,10 +4841,14 @@
 =======
         "totale_casi": 3322,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 3335,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4493,6 +4886,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -4501,6 +4897,7 @@
         "sigla_provincia": "",
         "lat": 0,
         "long": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4538,10 +4935,14 @@
 =======
         "totale_casi": 1817,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1825,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4578,6 +4979,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
@@ -4625,6 +5029,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -4652,6 +5057,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
@@ -4675,6 +5083,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -4702,6 +5111,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
@@ -4733,6 +5145,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -4761,6 +5174,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -4769,6 +5185,7 @@
         "sigla_provincia": "MC",
         "lat": 43.30023926,
         "long": 13.45307182,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4806,10 +5223,14 @@
 =======
         "totale_casi": 1082,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1087,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4847,6 +5268,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -4855,6 +5279,7 @@
         "sigla_provincia": "PU",
         "lat": 43.91014021,
         "long": 12.91345989,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4892,10 +5317,14 @@
 =======
         "totale_casi": 2713,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 2723,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4933,6 +5362,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -4941,6 +5373,7 @@
         "sigla_provincia": "",
         "lat": 0,
         "long": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4974,10 +5407,14 @@
 =======
         "totale_casi": 225,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 226,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5015,6 +5452,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -5023,6 +5463,7 @@
         "sigla_provincia": "CB",
         "lat": 41.55774754,
         "long": 14.65916051,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5060,10 +5501,14 @@
 =======
         "totale_casi": 327,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 331,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5100,6 +5545,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 14,
@@ -5131,6 +5579,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -5158,6 +5607,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 14,
@@ -5181,6 +5633,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -5209,6 +5662,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -5217,6 +5673,7 @@
         "sigla_provincia": "AL",
         "lat": 44.91297351,
         "long": 8.615401155,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5254,10 +5711,14 @@
 =======
         "totale_casi": 3769,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 3779,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5295,6 +5756,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -5303,6 +5767,7 @@
         "sigla_provincia": "AT",
         "lat": 44.89912921,
         "long": 8.204142547,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5340,10 +5805,14 @@
 =======
         "totale_casi": 1711,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1723,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5380,6 +5849,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
@@ -5431,6 +5903,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -5459,6 +5932,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -5467,6 +5943,7 @@
         "sigla_provincia": "CN",
         "lat": 44.39329625,
         "long": 7.551171632,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5504,10 +5981,14 @@
 =======
         "totale_casi": 2666,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 2679,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5545,6 +6026,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -5553,6 +6037,7 @@
         "sigla_provincia": "NO",
         "lat": 45.44588506,
         "long": 8.621915884,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5590,10 +6075,14 @@
 =======
         "totale_casi": 2543,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 2565,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5631,6 +6120,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -5639,6 +6131,7 @@
         "sigla_provincia": "TO",
         "lat": 45.0732745,
         "long": 7.680687483,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5676,10 +6169,14 @@
 =======
         "totale_casi": 14807,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 14896,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5717,6 +6214,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -5725,6 +6225,7 @@
         "sigla_provincia": "VB",
         "lat": 45.9214455,
         "long": 8.551078753,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5762,10 +6263,14 @@
 =======
         "totale_casi": 1099,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1093,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5803,6 +6308,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -5811,6 +6319,7 @@
         "sigla_provincia": "VC",
         "lat": 45.32398135,
         "long": 8.423234312,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5848,10 +6357,14 @@
 =======
         "totale_casi": 1226,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1235,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5889,6 +6402,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -5897,6 +6413,7 @@
         "sigla_provincia": "",
         "lat": 0,
         "long": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5934,10 +6451,14 @@
 =======
         "totale_casi": 366,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 354,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5975,6 +6496,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -5983,6 +6507,7 @@
         "sigla_provincia": "BA",
         "lat": 41.12559576,
         "long": 16.86736689,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6020,10 +6545,14 @@
 =======
         "totale_casi": 1431,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1432,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6060,6 +6589,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -6099,6 +6631,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6127,6 +6660,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -6135,6 +6671,7 @@
         "sigla_provincia": "BR",
         "lat": 40.63848545,
         "long": 17.94601575,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6164,10 +6701,14 @@
 =======
         "totale_casi": 610,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 615,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6205,6 +6746,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -6213,6 +6757,7 @@
         "sigla_provincia": "FG",
         "lat": 41.46226865,
         "long": 15.54305094,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6250,10 +6795,14 @@
 =======
         "totale_casi": 1121,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1125,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6291,6 +6840,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -6299,6 +6851,7 @@
         "sigla_provincia": "LE",
         "lat": 40.35354285,
         "long": 18.1718973,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6328,10 +6881,14 @@
 =======
         "totale_casi": 508,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 507,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6368,6 +6925,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -6419,6 +6979,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6446,6 +7007,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
@@ -6489,6 +7053,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6516,6 +7081,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -6539,6 +7107,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6566,6 +7135,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -6589,6 +7161,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6616,6 +7189,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -6651,6 +7227,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6679,6 +7256,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -6687,6 +7267,7 @@
         "sigla_provincia": "SS",
         "lat": 40.72667657,
         "long": 8.559667131,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6708,10 +7289,14 @@
 =======
         "totale_casi": 866,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 869,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6748,6 +7333,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -6771,6 +7359,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6798,6 +7387,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
@@ -6821,6 +7413,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6848,6 +7441,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -6879,6 +7475,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6907,6 +7504,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -6915,7 +7515,7 @@
         "sigla_provincia": "CL",
         "lat": 37.49213171,
         "long": 14.06184973,
-        "totale_casi": 166,
+        "totale_casi": 170,
         "note_it": "",
         "note_en": ""
     },
@@ -6929,6 +7529,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -6957,6 +7558,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -6965,6 +7569,7 @@
         "sigla_provincia": "CT",
         "lat": 37.50287803,
         "long": 15.08704691,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6998,10 +7603,14 @@
 =======
         "totale_casi": 1057,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1059,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7038,6 +7647,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -7069,6 +7681,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -7096,6 +7709,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -7135,6 +7751,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -7163,6 +7780,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -7171,6 +7791,7 @@
         "sigla_provincia": "PA",
         "lat": 38.11569725,
         "long": 13.3623567,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7204,10 +7825,14 @@
 =======
         "totale_casi": 549,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 551,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7244,6 +7869,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -7267,6 +7895,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -7294,6 +7923,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -7325,6 +7957,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -7352,6 +7985,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -7375,6 +8011,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -7402,6 +8039,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -7425,6 +8065,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -7453,6 +8094,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -7461,6 +8105,7 @@
         "sigla_provincia": "AR",
         "lat": 43.46642752,
         "long": 11.88228844,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7494,10 +8139,14 @@
 =======
         "totale_casi": 668,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 669,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7535,6 +8184,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -7543,6 +8195,7 @@
         "sigla_provincia": "FI",
         "lat": 43.76923077,
         "long": 11.25588885,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7580,10 +8233,14 @@
 =======
         "totale_casi": 3353,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 3371,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7620,6 +8277,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -7659,6 +8319,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -7687,6 +8348,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -7695,6 +8359,7 @@
         "sigla_provincia": "LI",
         "lat": 43.55234873,
         "long": 10.3086781,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7707,6 +8372,9 @@
 >>>>>>> upstream/master
 =======
         "totale_casi": 539,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 541,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
@@ -7721,6 +8389,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -7749,6 +8418,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -7757,6 +8429,7 @@
         "sigla_provincia": "LU",
         "lat": 43.84432283,
         "long": 10.50151366,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7790,10 +8463,14 @@
 =======
         "totale_casi": 1335,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1336,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7830,6 +8507,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -7853,6 +8533,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -7881,6 +8562,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -7889,6 +8573,7 @@
         "sigla_provincia": "PI",
         "lat": 43.71553206,
         "long": 10.40127259,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7918,10 +8603,14 @@
 =======
         "totale_casi": 876,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 877,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7959,6 +8648,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -7967,6 +8659,7 @@
         "sigla_provincia": "PT",
         "lat": 43.933465,
         "long": 10.91734146,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7980,10 +8673,14 @@
 =======
         "totale_casi": 655,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 656,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8020,6 +8717,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -8079,6 +8779,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -8106,6 +8807,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -8129,6 +8833,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -8156,6 +8861,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -8179,6 +8887,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -8207,6 +8916,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -8215,6 +8927,7 @@
         "sigla_provincia": "TN",
         "lat": 46.06893511,
         "long": 11.12123097,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8252,10 +8965,14 @@
 =======
         "totale_casi": 4315,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 4318,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8292,6 +9009,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 4,
@@ -8315,6 +9035,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -8343,6 +9064,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -8351,6 +9075,7 @@
         "sigla_provincia": "PG",
         "lat": 43.10675841,
         "long": 12.38824698,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8376,10 +9101,14 @@
 =======
         "totale_casi": 996,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 997,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8417,6 +9146,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -8425,6 +9157,7 @@
         "sigla_provincia": "TR",
         "lat": 42.56071258,
         "long": 12.6466875,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8454,10 +9187,14 @@
 =======
         "totale_casi": 369,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 370,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8494,6 +9231,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
@@ -8533,6 +9273,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -8561,6 +9302,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -8569,6 +9313,7 @@
         "sigla_provincia": "AO",
         "lat": 45.73750286,
         "long": 7.320149366,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8606,10 +9351,14 @@
 =======
         "totale_casi": 1166,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1172,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8646,6 +9395,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 2,
@@ -8669,6 +9421,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -8696,6 +9449,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-05-14T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
@@ -8747,6 +9503,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -8775,6 +9532,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -8783,6 +9543,7 @@
         "sigla_provincia": "PD",
         "lat": 45.40692987,
         "long": 11.87608718,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8820,10 +9581,14 @@
 =======
         "totale_casi": 3907,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 3908,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8861,6 +9626,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -8869,6 +9637,7 @@
         "sigla_provincia": "RO",
         "lat": 45.07107289,
         "long": 11.79007,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8898,10 +9667,14 @@
 =======
         "totale_casi": 436,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 437,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8939,6 +9712,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -8947,6 +9723,7 @@
         "sigla_provincia": "TV",
         "lat": 45.66754571,
         "long": 12.24507363,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8980,10 +9757,14 @@
 =======
         "totale_casi": 2621,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 2625,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9021,6 +9802,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -9029,6 +9813,7 @@
         "sigla_provincia": "VE",
         "lat": 45.43490485,
         "long": 12.33845213,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9066,10 +9851,14 @@
 =======
         "totale_casi": 2622,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 2626,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9107,6 +9896,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -9115,6 +9907,7 @@
         "sigla_provincia": "VR",
         "lat": 45.43839046,
         "long": 10.99352685,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9152,10 +9945,14 @@
 =======
         "totale_casi": 4978,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 4997,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9193,6 +9990,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -9201,6 +10001,7 @@
         "sigla_provincia": "VI",
         "lat": 45.547497,
         "long": 11.54597109,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9238,10 +10039,14 @@
 =======
         "totale_casi": 2795,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 2808,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9279,6 +10084,9 @@
 =======
         "data": "2020-05-14T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-05-15T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -9287,6 +10095,7 @@
         "sigla_provincia": "",
         "lat": 0,
         "long": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9319,6 +10128,9 @@
 >>>>>>> upstream/master
 =======
         "totale_casi": 335,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 337,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""

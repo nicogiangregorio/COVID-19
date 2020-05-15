@@ -109,5 +109,6 @@ data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolame
 >>>>>>> upstream/master
 =======
 2020-05-14T17:00:00,ITA,11453,855,12308,64132,76440,-2017,992,115288,31368,223096,2807504,1820083,dc-IT-0029,dc-EN-0029
+2020-05-15T17:00:00,ITA,10792,808,11600,60470,72070,-4370,789,120205,31610,223885,2875680,1859110,dc-IT-0031,dc-EN-0031
 
 >>>>>>> upstream/master
