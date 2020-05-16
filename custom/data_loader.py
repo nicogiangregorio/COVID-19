@@ -28,7 +28,9 @@ class DataLoader(object):
             17 : None,
             18 : None,
             19 : None,
-            20 : None
+            20 : None,
+            21 : None,
+            22 : None
     }
     def __new__(cls):
         if cls._instance is None:
@@ -58,7 +60,8 @@ class DataLoader(object):
 
         # Hack needed due to the split of region in two provinces
         #data,stato,codice_regione,denominazione_regione,lat,long,
-
+        region_data[4] = pd.concat([region_data[21],region_data[22]])
+        
         df_t = region_data[4].groupby(['data', 'stato', 'codice_regione',])[
                     'ricoverati_con_sintomi',
                     'terapia_intensiva',
