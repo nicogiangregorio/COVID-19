@@ -62,7 +62,7 @@ class DataLoader(object):
         #data,stato,codice_regione,denominazione_regione,lat,long,
         region_data[4] = pd.concat([region_data[21],region_data[22]])
         
-        df_t = region_data[4].groupby(['data', 'stato', 'codice_regione',])[
+        df_t = region_data[4].groupby(['data', 'stato',])[
                     'ricoverati_con_sintomi',
                     'terapia_intensiva',
                     'totale_ospedalizzati',
@@ -78,6 +78,7 @@ class DataLoader(object):
         df_t['lat'] = '46.06893511'
         df_t['long'] = '11.12123097'
         df_t['ratio_positivi_tamponi'] = round(100 * df_t['totale_positivi'] / df_t['tamponi'], 2)
+        print (df_t)
         region_data[4] = df_t
         return region_data
 
