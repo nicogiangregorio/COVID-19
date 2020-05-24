@@ -16,6 +16,7 @@ data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolame
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 2020-05-05T17:00:00,ITA,16270,1427,17697,80770,98467,-1513,1075,85231,29315,213013,2246666,1512121,,
 =======
 2020-05-06T17:00:00,ITA,15769,1333,17102,74426,91528,-6939,1444,93245,29684,214457,2310929,1549892,dc-IT-0021,dc-EN-0021
@@ -67,4 +68,7 @@ data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolame
 >>>>>>> upstream/master
 =======
 2020-05-23T17:00:00,ITA,8695,572,9267,48485,57752,-1570,669,138840,32735,229327,3391188,2164426,,
+>>>>>>> upstream/master
+=======
+2020-05-24T17:00:00,ITA,8613,553,9166,47428,56594,-1158,531,140479,32785,229858,3447012,2198632,pd-IT-0021,pd-EN-0021
 >>>>>>> upstream/master
