@@ -1705,7 +1705,7 @@
 >>>>>>> upstream/master
 =======
     },
-        {
+    {
         "data": "2020-05-25T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 8185,
@@ -1722,6 +1722,27 @@
         "casi_testati": 2219308,
         "note_it": "dc-IT-0035",
         "note_en": "dc-EN-0035"
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+    },
+    {
+        "data": "2020-05-26T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 7917,
+        "terapia_intensiva": 521,
+        "totale_ospedalizzati": 8438,
+        "isolamento_domiciliare": 44504,
+        "totale_positivi": 52942,
+        "variazione_totale_positivi": -2358,
+        "nuovi_positivi": 397,
+        "dimessi_guariti": 144658,
+        "deceduti": 32955,
+        "totale_casi": 230555,
+        "tamponi": 3539927,
+        "casi_testati": 2253252,
+        "note_it": "",
+        "note_en": ""
 >>>>>>> upstream/master
     }
 ]
