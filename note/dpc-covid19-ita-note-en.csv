@@ -122,6 +122,7 @@ dc-EN-0034,2020-05-25T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,r
 dc-EN-0035,2020-05-25T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of positive cases (-2 for false positives by the ASSL of Oristano and by the ASSL of Sassari)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 dc-IT-0035,2020-05-29T17:00:00,dati-regioni,ITA,11,Marche,,,,data correction,recalculation of information,recalculation of deaths (11 deaths previously reported cannot be classified as Covid-19 and are not included in the ISS database)
@@ -132,4 +133,12 @@ dc-IT-0036,2020-05-29T17:00:00,dati-regioni,ITA,11,Marche,,,,data correction,rec
 dc-IT-0037,2020-05-29T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,data correction,recalculation of information,recalculation of deaths (11 deaths previously reported cannot be classified as Covid-19 and are not included in the ISS database)
 nd-IT-0015,2020-05-30T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,no data,no data has been sent,data update not received
 nd-IT-0016,2020-05-30T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,no data,no data has been sent,data update not received
+>>>>>>> upstream/master
+=======
+dc-EN-0036,2020-05-29T17:00:00,dati-regioni,ITA,11,Marche,,,,data correction,recalculation of information,recalculation of deaths (11 deaths previously reported cannot be classified as Covid-19 and are not included in the ISS database)
+dc-EN-0037,2020-05-29T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,data correction,recalculation of information,recalculation of deaths (11 deaths previously reported cannot be classified as Covid-19 and are not included in the ISS database)
+nd-EN-0015,2020-05-30T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,no data,no data has been sent,data update not received
+nd-EN-0016,2020-05-30T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,no data,no data has been sent,data update not received
+pd-EN-0022,2020-05-31T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,partial data,partial communication of data,home isolation and discharged/healed people data not updated
+pd-EN-0023,2020-05-31T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,partial data,partial communication of data,home isolation and discharged/healed people data not updated
 >>>>>>> upstream/master
