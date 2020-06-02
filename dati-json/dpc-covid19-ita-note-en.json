@@ -1069,7 +1069,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
-        "note": "home isolation and discharged/healed people data not updated"
+        "note": "discharged/healed people data not updated"
     },
     {
         "codice": "pd-EN-0023",
@@ -1083,6 +1083,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
+<<<<<<< HEAD
         "note": "home isolation and discharged/healed people data not updated"
 <<<<<<< HEAD
 >>>>>>> upstream/master
@@ -1115,6 +1116,9 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "recalculation of total cases data +22 referring to 2020-05-31"
+>>>>>>> upstream/master
+=======
+        "note": "discharged/healed people data not updated"
 >>>>>>> upstream/master
     }
 ]
