@@ -1208,6 +1208,121 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "-1 caso positivo rispetto a ieri"
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+    },
+    {
+        "codice": "dc-IT-0044",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo deceduti (-1 relativo a ieri)"
+    },
+    {
+        "codice": "dc-IT-0045",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo deceduti (-1 relativo a ieri)"
+    },
+    {
+        "codice": "dc-IT-0046",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 15,
+        "regione": "Campania",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (-230)"
+    },
+    {
+        "codice": "dc-IT-0047",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 15,
+        "regione": "Campania",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (-230)"
+    },
+    {
+        "codice": "dc-IT-0048",
+        "data": "2020-06-13T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)"
+    },
+    {
+        "codice": "dc-IT-0049",
+        "data": "2020-06-13T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)"
+    },
+    {
+        "codice": "dc-IT-0050",
+        "data": "2020-06-15T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (-2)"
+    },
+    {
+        "codice": "dc-IT-0051",
+        "data": "2020-06-15T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (-2)"
 >>>>>>> upstream/master
     }
 ]

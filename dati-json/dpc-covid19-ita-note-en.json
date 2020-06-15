@@ -1211,6 +1211,121 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "-1 positive case compared to yesterday"
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+    },
+    {
+        "codice": "dc-EN-0044",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deceased (-1 related to yesterday)"
+    },
+    {
+        "codice": "dc-EN-0045",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deceased (-1 related to yesterday)"
+    },
+    {
+        "codice": "dc-EN-0046",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 15,
+        "regione": "Campania",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-230)"
+    },
+    {
+        "codice": "dc-EN-0047",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 15,
+        "regione": "Campania",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-230)"
+    },
+    {
+        "codice": "dc-EN-0048",
+        "data": "2020-06-13T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)"
+    },
+    {
+        "codice": "dc-EN-0049",
+        "data": "2020-06-13T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)"
+    },
+    {
+        "codice": "dc-EN-0050",
+        "data": "2020-06-15T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation o positive cases (-2)"
+    },
+    {
+        "codice": "dc-EN-0051",
+        "data": "2020-06-15T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation o positive cases (-2)"
 >>>>>>> upstream/master
     }
 ]

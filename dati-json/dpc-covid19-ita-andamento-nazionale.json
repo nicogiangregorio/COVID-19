@@ -2075,6 +2075,81 @@
         "casi_testati": 2746545,
         "note_it": "",
         "note_en": ""
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+    },
+    {
+        "data": "2020-06-12T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 3893,
+        "terapia_intensiva": 227,
+        "totale_ospedalizzati": 4120,
+        "isolamento_domiciliare": 24877,
+        "totale_positivi": 28997,
+        "variazione_totale_positivi": -1640,
+        "nuovi_positivi": 163,
+        "dimessi_guariti": 173085,
+        "deceduti": 34223,
+        "totale_casi": 236305,
+        "tamponi": 4514441,
+        "casi_testati": 2784196,
+        "note_it": "dc-IT-0045;dc-IT-0047",
+        "note_en": "dc-EN-0045;dc-EN-0047"
+    },
+    {
+        "data": "2020-06-13T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 3747,
+        "terapia_intensiva": 220,
+        "totale_ospedalizzati": 3967,
+        "isolamento_domiciliare": 23518,
+        "totale_positivi": 27485,
+        "variazione_totale_positivi": -1512,
+        "nuovi_positivi": 346,
+        "dimessi_guariti": 174865,
+        "deceduti": 34301,
+        "totale_casi": 236651,
+        "tamponi": 4564191,
+        "casi_testati": 2817076,
+        "note_it": "dc-IT-0049",
+        "note_en": "dc-EN-0049"
+    },
+    {
+        "data": "2020-06-14T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 3594,
+        "terapia_intensiva": 209,
+        "totale_ospedalizzati": 3803,
+        "isolamento_domiciliare": 22471,
+        "totale_positivi": 26274,
+        "variazione_totale_positivi": -1211,
+        "nuovi_positivi": 338,
+        "dimessi_guariti": 176370,
+        "deceduti": 34345,
+        "totale_casi": 236989,
+        "tamponi": 4620718,
+        "casi_testati": 2846621,
+        "note_it": "",
+        "note_en": ""
+    },
+    {
+        "data": "2020-06-15T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 3489,
+        "terapia_intensiva": 207,
+        "totale_ospedalizzati": 3696,
+        "isolamento_domiciliare": 22213,
+        "totale_positivi": 25909,
+        "variazione_totale_positivi": -365,
+        "nuovi_positivi": 303,
+        "dimessi_guariti": 177010,
+        "deceduti": 34371,
+        "totale_casi": 237290,
+        "tamponi": 4648825,
+        "casi_testati": 2864084,
+        "note_it": "dc-IT-0051",
+        "note_en": "dc-EN-0051"
 >>>>>>> upstream/master
     }
 ]
