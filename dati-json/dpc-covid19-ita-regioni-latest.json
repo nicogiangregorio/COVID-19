@@ -36,6 +36,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -145,11 +146,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
         "lat": 42.35122196,
         "long": 13.39843823,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -783,10 +788,25 @@
         "tamponi": 91700,
         "casi_testati": 62048,
 >>>>>>> upstream/master
+=======
+        "ricoverati_con_sintomi": 67,
+        "terapia_intensiva": 3,
+        "totale_ospedalizzati": 70,
+        "isolamento_domiciliare": 398,
+        "totale_positivi": 468,
+        "variazione_totale_positivi": -18,
+        "nuovi_positivi": 1,
+        "dimessi_guariti": 2355,
+        "deceduti": 457,
+        "totale_casi": 3280,
+        "tamponi": 92874,
+        "casi_testati": 62709,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         "data": "2020-06-09T17:00:00",
@@ -796,6 +816,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-15T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 17,
@@ -1163,13 +1186,14 @@
         "ricoverati_con_sintomi": 0,
         "terapia_intensiva": 1,
         "totale_ospedalizzati": 1,
-        "isolamento_domiciliare": 10,
-        "totale_positivi": 11,
-        "variazione_totale_positivi": 0,
+        "isolamento_domiciliare": 9,
+        "totale_positivi": 10,
+        "variazione_totale_positivi": -1,
         "nuovi_positivi": 0,
-        "dimessi_guariti": 363,
+        "dimessi_guariti": 364,
         "deceduti": 27,
         "totale_casi": 401,
+<<<<<<< HEAD
 <<<<<<< HEAD
         "tamponi": 33957,
         "casi_testati": 33167,
@@ -1178,10 +1202,15 @@
         "tamponi": 35233,
         "casi_testati": 34443,
 >>>>>>> upstream/master
+=======
+        "tamponi": 35666,
+        "casi_testati": 34876,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1340,6 +1369,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-15T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 21,
@@ -1903,26 +1935,31 @@
 =======
         "terapia_intensiva": 1,
         "totale_ospedalizzati": 9,
-        "isolamento_domiciliare": 85,
-        "totale_positivi": 94,
+        "isolamento_domiciliare": 84,
+        "totale_positivi": 93,
         "variazione_totale_positivi": -1,
         "nuovi_positivi": 0,
-        "dimessi_guariti": 2225,
+        "dimessi_guariti": 2226,
         "deceduti": 292,
         "totale_casi": 2611,
-        "tamponi": 76345,
-        "casi_testati": 36698,
-        "note_it": "dc-IT-0050",
-        "note_en": "dc-EN-0050"
+        "tamponi": 76661,
+        "casi_testati": 36931,
+        "note_it": "",
+        "note_en": ""
     },
     {
+<<<<<<< HEAD
         "data": "2020-06-15T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
         "lat": 38.90597598,
         "long": 16.59440194,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2297,12 +2334,16 @@
         "ricoverati_con_sintomi": 17,
 >>>>>>> upstream/master
         "terapia_intensiva": 1,
+=======
+        "ricoverati_con_sintomi": 18,
+        "terapia_intensiva": 0,
+>>>>>>> upstream/master
         "totale_ospedalizzati": 18,
-        "isolamento_domiciliare": 19,
-        "totale_positivi": 37,
-        "variazione_totale_positivi": -7,
+        "isolamento_domiciliare": 18,
+        "totale_positivi": 36,
+        "variazione_totale_positivi": -1,
         "nuovi_positivi": 0,
-        "dimessi_guariti": 1028,
+        "dimessi_guariti": 1029,
         "deceduti": 97,
 <<<<<<< HEAD
         "totale_casi": 1161,
@@ -2311,13 +2352,19 @@
 >>>>>>> upstream/master
 =======
         "totale_casi": 1162,
+<<<<<<< HEAD
         "tamponi": 82392,
         "casi_testati": 80330,
+>>>>>>> upstream/master
+=======
+        "tamponi": 83281,
+        "casi_testati": 81219,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2463,11 +2510,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
         "lat": 40.83956555,
         "long": 14.25084984,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2966,13 +3017,16 @@
 =======
         "ricoverati_con_sintomi": 58,
 >>>>>>> upstream/master
+=======
+        "ricoverati_con_sintomi": 57,
+>>>>>>> upstream/master
         "terapia_intensiva": 2,
-        "totale_ospedalizzati": 60,
-        "isolamento_domiciliare": 229,
-        "totale_positivi": 289,
-        "variazione_totale_positivi": -30,
-        "nuovi_positivi": 4,
-        "dimessi_guariti": 3894,
+        "totale_ospedalizzati": 59,
+        "isolamento_domiciliare": 214,
+        "totale_positivi": 273,
+        "variazione_totale_positivi": -16,
+        "nuovi_positivi": 0,
+        "dimessi_guariti": 3910,
         "deceduti": 430,
 <<<<<<< HEAD
         "totale_casi": 4837,
@@ -2981,13 +3035,19 @@
 >>>>>>> upstream/master
 =======
         "totale_casi": 4613,
+<<<<<<< HEAD
         "tamponi": 241380,
         "casi_testati": 122291,
+>>>>>>> upstream/master
+=======
+        "tamponi": 242662,
+        "casi_testati": 123167,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3133,11 +3193,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
         "lat": 44.49436681,
         "long": 11.3417208,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3690,10 +3754,25 @@
         "tamponi": 410984,
         "casi_testati": 244630,
 >>>>>>> upstream/master
+=======
+        "ricoverati_con_sintomi": 180,
+        "terapia_intensiva": 11,
+        "totale_ospedalizzati": 191,
+        "isolamento_domiciliare": 1214,
+        "totale_positivi": 1405,
+        "variazione_totale_positivi": -95,
+        "nuovi_positivi": 13,
+        "dimessi_guariti": 22483,
+        "deceduti": 4209,
+        "totale_casi": 28097,
+        "tamponi": 417184,
+        "casi_testati": 247911,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3839,11 +3918,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
         "lat": 45.6494354,
         "long": 13.76813649,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4334,19 +4417,32 @@
         "terapia_intensiva": 1,
         "totale_ospedalizzati": 16,
         "isolamento_domiciliare": 83,
+=======
+        "ricoverati_con_sintomi": 14,
+        "terapia_intensiva": 0,
+        "totale_ospedalizzati": 14,
+        "isolamento_domiciliare": 85,
+>>>>>>> upstream/master
         "totale_positivi": 99,
-        "variazione_totale_positivi": -4,
-        "nuovi_positivi": 0,
-        "dimessi_guariti": 2854,
+        "variazione_totale_positivi": 0,
+        "nuovi_positivi": 1,
+        "dimessi_guariti": 2855,
         "deceduti": 343,
+<<<<<<< HEAD
         "totale_casi": 3296,
         "tamponi": 161945,
         "casi_testati": 94567,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3297,
+        "tamponi": 162440,
+        "casi_testati": 95057,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4492,11 +4588,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
         "lat": 41.89277044,
         "long": 12.48366722,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5093,10 +5193,25 @@
         "tamponi": 299590,
         "casi_testati": 243805,
 >>>>>>> upstream/master
+=======
+        "ricoverati_con_sintomi": 308,
+        "terapia_intensiva": 38,
+        "totale_ospedalizzati": 346,
+        "isolamento_domiciliare": 783,
+        "totale_positivi": 1129,
+        "variazione_totale_positivi": -163,
+        "nuovi_positivi": 9,
+        "dimessi_guariti": 6024,
+        "deceduti": 814,
+        "totale_casi": 7967,
+        "tamponi": 302305,
+        "casi_testati": 245960,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5199,11 +5314,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
         "lat": 44.41149315,
         "long": 8.9326992,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5754,10 +5873,25 @@
         "tamponi": 127913,
         "casi_testati": 69345,
 >>>>>>> upstream/master
+=======
+        "ricoverati_con_sintomi": 76,
+        "terapia_intensiva": 2,
+        "totale_ospedalizzati": 78,
+        "isolamento_domiciliare": 164,
+        "totale_positivi": 242,
+        "variazione_totale_positivi": -4,
+        "nuovi_positivi": 4,
+        "dimessi_guariti": 8120,
+        "deceduti": 1529,
+        "totale_casi": 9891,
+        "tamponi": 129249,
+        "casi_testati": 69980,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5903,11 +6037,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
         "lat": 45.46679409,
         "long": 9.190347404,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6261,10 +6399,25 @@
         "tamponi": 658784,
         "casi_testati": 389648,
 >>>>>>> upstream/master
+=======
+        "ricoverati_con_sintomi": 1902,
+        "terapia_intensiva": 69,
+        "totale_ospedalizzati": 1971,
+        "isolamento_domiciliare": 13262,
+        "totale_positivi": 15233,
+        "variazione_totale_positivi": -743,
+        "nuovi_positivi": 143,
+        "dimessi_guariti": 60361,
+        "deceduti": 16466,
+        "totale_casi": 92060,
+        "tamponi": 906322,
+        "casi_testati": 539604,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6523,13 +6676,17 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-15T17:00:00",
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
         "lat": 43.61675973,
         "long": 13.5188753,
-        "ricoverati_con_sintomi": 18,
+        "ricoverati_con_sintomi": 19,
         "terapia_intensiva": 0,
+<<<<<<< HEAD
         "totale_ospedalizzati": 18,
         "isolamento_domiciliare": 599,
         "totale_positivi": 617,
@@ -6541,10 +6698,23 @@
         "tamponi": 121620,
         "casi_testati": 73564,
 >>>>>>> upstream/master
+=======
+        "totale_ospedalizzati": 19,
+        "isolamento_domiciliare": 582,
+        "totale_positivi": 601,
+        "variazione_totale_positivi": -16,
+        "nuovi_positivi": 1,
+        "dimessi_guariti": 5168,
+        "deceduti": 994,
+        "totale_casi": 6763,
+        "tamponi": 122650,
+        "casi_testati": 74194,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7760,10 +7930,37 @@
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
+=======
+        "data": "2020-06-16T17:00:00",
+        "stato": "ITA",
+        "codice_regione": 14,
+        "denominazione_regione": "Molise",
+        "lat": 41.55774754,
+        "long": 14.65916051,
+        "ricoverati_con_sintomi": 1,
+        "terapia_intensiva": 0,
+        "totale_ospedalizzati": 1,
+        "isolamento_domiciliare": 64,
+        "totale_positivi": 65,
+        "variazione_totale_positivi": -5,
+        "nuovi_positivi": 0,
+        "dimessi_guariti": 351,
+        "deceduti": 23,
+        "totale_casi": 439,
+        "tamponi": 19368,
+        "casi_testati": 18444,
+        "note_it": "",
+        "note_en": ""
+    },
+    {
+        "data": "2020-06-16T17:00:00",
+        "stato": "ITA",
+>>>>>>> upstream/master
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
         "lat": 45.0732745,
         "long": 7.680687483,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8313,10 +8510,25 @@
         "tamponi": 369294,
         "casi_testati": 234980,
 >>>>>>> upstream/master
+=======
+        "ricoverati_con_sintomi": 472,
+        "terapia_intensiva": 28,
+        "totale_ospedalizzati": 500,
+        "isolamento_domiciliare": 1950,
+        "totale_positivi": 2450,
+        "variazione_totale_positivi": -154,
+        "nuovi_positivi": 29,
+        "dimessi_guariti": 24622,
+        "deceduti": 4018,
+        "totale_casi": 31090,
+        "tamponi": 372948,
+        "casi_testati": 236721,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8462,11 +8674,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
         "lat": 41.12559576,
         "long": 16.86736689,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8982,22 +9198,31 @@
 >>>>>>> upstream/master
 =======
         "ricoverati_con_sintomi": 56,
+=======
+        "ricoverati_con_sintomi": 48,
+>>>>>>> upstream/master
         "terapia_intensiva": 2,
-        "totale_ospedalizzati": 58,
-        "isolamento_domiciliare": 352,
-        "totale_positivi": 410,
-        "variazione_totale_positivi": -8,
-        "nuovi_positivi": 1,
-        "dimessi_guariti": 3572,
-        "deceduti": 534,
+        "totale_ospedalizzati": 50,
+        "isolamento_domiciliare": 303,
+        "totale_positivi": 353,
+        "variazione_totale_positivi": -57,
+        "nuovi_positivi": 0,
+        "dimessi_guariti": 3628,
+        "deceduti": 535,
         "totale_casi": 4516,
+<<<<<<< HEAD
         "tamponi": 148627,
         "casi_testati": 97877,
+>>>>>>> upstream/master
+=======
+        "tamponi": 151482,
+        "casi_testati": 99985,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9143,11 +9368,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
         "lat": 39.21531192,
         "long": 9.110616306,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9710,22 +9939,32 @@
         "casi_testati": 56226,
 =======
         "ricoverati_con_sintomi": 12,
+=======
+        "ricoverati_con_sintomi": 13,
+>>>>>>> upstream/master
         "terapia_intensiva": 0,
-        "totale_ospedalizzati": 12,
-        "isolamento_domiciliare": 21,
+        "totale_ospedalizzati": 13,
+        "isolamento_domiciliare": 20,
         "totale_positivi": 33,
         "variazione_totale_positivi": 0,
-        "nuovi_positivi": 0,
-        "dimessi_guariti": 1198,
+        "nuovi_positivi": 2,
+        "dimessi_guariti": 1200,
         "deceduti": 132,
+<<<<<<< HEAD
         "totale_casi": 1363,
         "tamponi": 69134,
         "casi_testati": 58586,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1365,
+        "tamponi": 70202,
+        "casi_testati": 59536,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         "data": "2020-06-09T17:00:00",
@@ -9736,11 +9975,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
         "lat": 38.11569725,
         "long": 13.3623567,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10244,22 +10487,32 @@
 >>>>>>> upstream/master
 =======
         "ricoverati_con_sintomi": 30,
+=======
+        "ricoverati_con_sintomi": 32,
+>>>>>>> upstream/master
         "terapia_intensiva": 4,
-        "totale_ospedalizzati": 34,
-        "isolamento_domiciliare": 771,
-        "totale_positivi": 805,
-        "variazione_totale_positivi": -32,
-        "nuovi_positivi": 1,
-        "dimessi_guariti": 2373,
+        "totale_ospedalizzati": 36,
+        "isolamento_domiciliare": 770,
+        "totale_positivi": 806,
+        "variazione_totale_positivi": 1,
+        "nuovi_positivi": 2,
+        "dimessi_guariti": 2374,
         "deceduti": 280,
+<<<<<<< HEAD
         "totale_casi": 3458,
         "tamponi": 180327,
         "casi_testati": 150982,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3460,
+        "tamponi": 182514,
+        "casi_testati": 152670,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10405,11 +10658,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
         "lat": 43.76923077,
         "long": 11.25588885,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10959,10 +11216,25 @@
         "tamponi": 293683,
         "casi_testati": 207371,
 >>>>>>> upstream/master
+=======
+        "ricoverati_con_sintomi": 34,
+        "terapia_intensiva": 14,
+        "totale_ospedalizzati": 48,
+        "isolamento_domiciliare": 415,
+        "totale_positivi": 463,
+        "variazione_totale_positivi": -26,
+        "nuovi_positivi": 3,
+        "dimessi_guariti": 8637,
+        "deceduti": 1091,
+        "totale_casi": 10191,
+        "tamponi": 296812,
+        "casi_testati": 209629,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11108,11 +11380,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11608,22 +11884,31 @@
         "casi_testati": 52795,
 >>>>>>> upstream/master
 =======
+=======
+        "ricoverati_con_sintomi": 2,
+>>>>>>> upstream/master
         "terapia_intensiva": 0,
-        "totale_ospedalizzati": 5,
-        "isolamento_domiciliare": 61,
-        "totale_positivi": 66,
-        "variazione_totale_positivi": 0,
-        "nuovi_positivi": 1,
-        "dimessi_guariti": 3917,
+        "totale_ospedalizzati": 2,
+        "isolamento_domiciliare": 62,
+        "totale_positivi": 64,
+        "variazione_totale_positivi": -2,
+        "nuovi_positivi": 0,
+        "dimessi_guariti": 3919,
         "deceduti": 465,
         "totale_casi": 4448,
+<<<<<<< HEAD
         "tamponi": 104306,
         "casi_testati": 55322,
+>>>>>>> upstream/master
+=======
+        "tamponi": 104696,
+        "casi_testati": 55530,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11714,11 +11999,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
         "lat": 43.10675841,
         "long": 12.38824698,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12105,22 +12394,32 @@
 >>>>>>> upstream/master
 =======
         "ricoverati_con_sintomi": 9,
+=======
+        "ricoverati_con_sintomi": 8,
+>>>>>>> upstream/master
         "terapia_intensiva": 1,
-        "totale_ospedalizzati": 10,
-        "isolamento_domiciliare": 8,
+        "totale_ospedalizzati": 9,
+        "isolamento_domiciliare": 9,
         "totale_positivi": 18,
-        "variazione_totale_positivi": -2,
-        "nuovi_positivi": 0,
-        "dimessi_guariti": 1341,
+        "variazione_totale_positivi": 0,
+        "nuovi_positivi": 1,
+        "dimessi_guariti": 1342,
         "deceduti": 77,
+<<<<<<< HEAD
         "totale_casi": 1436,
         "tamponi": 82235,
         "casi_testati": 58164,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1437,
+        "tamponi": 83435,
+        "casi_testati": 58815,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12266,11 +12565,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
         "lat": 45.73750286,
         "long": 7.320149366,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12668,13 +12971,16 @@
 =======
         "ricoverati_con_sintomi": 7,
 >>>>>>> upstream/master
+=======
+        "ricoverati_con_sintomi": 6,
+>>>>>>> upstream/master
         "terapia_intensiva": 0,
-        "totale_ospedalizzati": 7,
-        "isolamento_domiciliare": 5,
-        "totale_positivi": 12,
-        "variazione_totale_positivi": 5,
+        "totale_ospedalizzati": 6,
+        "isolamento_domiciliare": 4,
+        "totale_positivi": 10,
+        "variazione_totale_positivi": -2,
         "nuovi_positivi": 0,
-        "dimessi_guariti": 1035,
+        "dimessi_guariti": 1037,
         "deceduti": 144,
 <<<<<<< HEAD
         "totale_casi": 1189,
@@ -12683,6 +12989,7 @@
 >>>>>>> upstream/master
 =======
         "totale_casi": 1191,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12706,10 +13013,15 @@
         "tamponi": 16650,
         "casi_testati": 12829,
 >>>>>>> upstream/master
+=======
+        "tamponi": 16764,
+        "casi_testati": 12907,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12855,11 +13167,15 @@
 =======
         "data": "2020-06-15T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-16T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
         "lat": 45.43490485,
         "long": 12.33845213,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13395,17 +13711,28 @@
 >>>>>>> upstream/master
 =======
         "ricoverati_con_sintomi": 38,
+=======
+        "ricoverati_con_sintomi": 36,
+>>>>>>> upstream/master
         "terapia_intensiva": 1,
-        "totale_ospedalizzati": 39,
-        "isolamento_domiciliare": 716,
-        "totale_positivi": 755,
-        "variazione_totale_positivi": -17,
+        "totale_ospedalizzati": 37,
+        "isolamento_domiciliare": 681,
+        "totale_positivi": 718,
+        "variazione_totale_positivi": -37,
         "nuovi_positivi": 1,
+<<<<<<< HEAD
         "dimessi_guariti": 16487,
         "deceduti": 1978,
         "totale_casi": 19220,
         "tamponi": 817064,
         "casi_testati": 373057,
+>>>>>>> upstream/master
+=======
+        "dimessi_guariti": 16521,
+        "deceduti": 1982,
+        "totale_casi": 19221,
+        "tamponi": 826192,
+        "casi_testati": 376001,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
