@@ -59,7 +59,10 @@ Le personalizzazioni apportate sono di due tipologie:
 >>>>>>> upstream/master
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
- 
+
+**Nuove modifiche ai dataset da lunedì 29/06 - [Avviso](https://github.com/pcm-dpc/COVID-19/issues/747)**<br>
+**New changes to datasets from Monday 29/06 - [Notice](https://github.com/pcm-dpc/COVID-19/issues/747)**<br>
+
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 <<<<<<< HEAD
 >>>>>>> upstream/master
