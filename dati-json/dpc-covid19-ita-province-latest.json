@@ -44,6 +44,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -298,6 +299,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -312,6 +316,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -489,6 +494,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -502,6 +510,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -821,6 +830,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -834,7 +846,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -843,12 +855,12 @@
         "sigla_provincia": "CH",
         "lat": 42.35103167,
         "long": 14.16754574,
-        "totale_casi": 816,
+        "totale_casi": 817,
         "note_it": "",
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -862,7 +874,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -876,7 +888,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -890,7 +902,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -904,7 +916,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
 <<<<<<< HEAD
         "codice_regione": 7,
@@ -931,6 +943,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1193,6 +1206,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -1207,6 +1223,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1384,6 +1401,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -1397,6 +1417,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1627,6 +1648,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -1641,6 +1665,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1883,6 +1908,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -1947,6 +1975,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -2080,6 +2109,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -2088,7 +2120,7 @@
         "sigla_provincia": "KR",
         "lat": 39.08036878,
         "long": 17.12538864,
-        "totale_casi": 118,
+        "totale_casi": 119,
         "note_it": "",
         "note_en": ""
     },
@@ -2137,6 +2169,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -2268,6 +2301,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-27T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 18,
@@ -2282,7 +2318,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -2296,7 +2332,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -2310,7 +2346,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -2319,12 +2355,12 @@
         "sigla_provincia": "CE",
         "lat": 41.07465878,
         "long": 14.33240464,
-        "totale_casi": 515,
+        "totale_casi": 516,
         "note_it": "",
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
 <<<<<<< HEAD
         "codice_regione": 3,
@@ -3730,6 +3766,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -3863,6 +3900,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -3876,6 +3916,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4162,6 +4203,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -4176,6 +4220,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4353,6 +4398,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -4366,6 +4414,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4668,6 +4717,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -4682,6 +4734,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5020,6 +5073,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -5028,12 +5084,17 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
+<<<<<<< HEAD
         "totale_casi": 46,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 45,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5311,6 +5372,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -5335,6 +5399,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5656,6 +5721,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -5664,12 +5732,12 @@
         "sigla_provincia": "PR",
         "lat": 44.80107394,
         "long": 10.32834985,
-        "totale_casi": 3646,
+        "totale_casi": 3650,
         "note_it": "",
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -5694,6 +5762,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5870,6 +5939,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -5885,6 +5957,7 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-06-25T17:00:00",
 >>>>>>> upstream/master
 =======
@@ -5892,6 +5965,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-27T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -6076,12 +6152,17 @@
 =======
         "lat": 44.49436681,
         "long": 11.3417208,
+<<<<<<< HEAD
         "totale_casi": 5211,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 5215,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6258,6 +6339,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-27T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
@@ -6385,13 +6469,17 @@
 =======
         "lat": 44.83599085,
         "long": 11.61868934,
+<<<<<<< HEAD
         "totale_casi": 1036,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1041,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -6410,12 +6498,17 @@
 =======
         "lat": 44.41722493,
         "long": 12.19913936,
+<<<<<<< HEAD
         "totale_casi": 1028,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1030,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6593,6 +6686,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -6603,6 +6699,7 @@
 <<<<<<< HEAD
         "lat": 44.22268559,
         "long": 12.04068608,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6742,10 +6839,14 @@
         "long": 12.04068608,
         "totale_casi": 1732,
 >>>>>>> upstream/master
+=======
+        "totale_casi": 1734,
+>>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7092,6 +7193,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -7106,12 +7210,17 @@
 =======
         "lat": 44.06090087,
         "long": 12.5656295,
+<<<<<<< HEAD
         "totale_casi": 2143,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2146,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7458,6 +7567,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -7472,12 +7584,17 @@
 =======
         "lat": null,
         "long": null,
+<<<<<<< HEAD
         "totale_casi": 413,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 414,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7823,6 +7940,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -7836,7 +7956,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -7850,7 +7970,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -7864,7 +7984,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
 <<<<<<< HEAD
         "codice_regione": 9,
@@ -9109,6 +9229,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -9335,6 +9456,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -9343,12 +9467,17 @@
         "sigla_provincia": "PN",
         "lat": 45.95443546,
         "long": 12.66002909,
+<<<<<<< HEAD
         "totale_casi": 701,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 702,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9647,6 +9776,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -9661,6 +9793,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9967,6 +10100,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -9981,6 +10117,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10262,6 +10399,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -10276,6 +10416,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10453,6 +10594,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -10466,6 +10610,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10727,6 +10872,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -10745,12 +10893,17 @@
 =======
         "lat": 41.89277044,
         "long": 12.48366722,
+<<<<<<< HEAD
         "totale_casi": 5846,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 5860,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10928,6 +11081,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -11041,6 +11197,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11298,6 +11455,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -11318,6 +11478,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11676,6 +11837,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -11690,6 +11854,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11981,6 +12146,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-27T17:00:00",
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -11995,6 +12163,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12229,6 +12398,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -12237,12 +12409,17 @@
         "sigla_provincia": "IM",
         "lat": 43.88570648,
         "long": 8.027850298,
+<<<<<<< HEAD
         "totale_casi": 1493,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1494,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12601,6 +12778,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -12621,6 +12801,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12951,6 +13132,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -12965,12 +13149,17 @@
 =======
         "lat": 44.41149314,
         "long": 8.9326992,
+<<<<<<< HEAD
         "totale_casi": 5553,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 5556,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13285,6 +13474,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -13299,6 +13491,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13633,6 +13826,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -13647,6 +13843,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13881,6 +14078,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -13901,6 +14101,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14259,6 +14460,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -14273,12 +14477,17 @@
 =======
         "lat": 45.81701677,
         "long": 8.822868344,
+<<<<<<< HEAD
         "totale_casi": 3896,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3899,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14637,6 +14846,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -14651,12 +14863,17 @@
 =======
         "lat": 45.8099912,
         "long": 9.085159546,
+<<<<<<< HEAD
         "totale_casi": 4092,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 4093,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15015,6 +15232,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -15023,12 +15243,17 @@
         "sigla_provincia": "SO",
         "lat": 46.17099261,
         "long": 9.87147489,
+<<<<<<< HEAD
         "totale_casi": 1582,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1584,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15383,6 +15608,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -15397,12 +15625,17 @@
 =======
         "lat": 45.46679409,
         "long": 9.190347404,
+<<<<<<< HEAD
         "totale_casi": 24304,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 24320,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15736,6 +15969,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -15744,12 +15980,12 @@
         "sigla_provincia": "BG",
         "lat": 45.69441368,
         "long": 9.668424528,
-        "totale_casi": 14337,
+        "totale_casi": 14357,
         "note_it": "",
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
 <<<<<<< HEAD
         "codice_regione": 16,
@@ -15775,12 +16011,17 @@
 =======
         "lat": 45.53993052,
         "long": 10.21910323,
+<<<<<<< HEAD
         "totale_casi": 15584,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 15611,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16135,6 +16376,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -16149,12 +16393,17 @@
 =======
         "lat": 45.18509264,
         "long": 9.160157191,
+<<<<<<< HEAD
         "totale_casi": 5561,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 5567,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16493,6 +16742,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -16507,12 +16759,17 @@
 =======
         "lat": 45.13336675,
         "long": 10.02420865,
+<<<<<<< HEAD
         "totale_casi": 6602,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 6608,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16871,6 +17128,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -16885,12 +17145,17 @@
 =======
         "lat": 45.15726772,
         "long": 10.79277363,
+<<<<<<< HEAD
         "totale_casi": 3474,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 3478,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17245,6 +17510,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -17259,12 +17527,17 @@
 =======
         "lat": 45.85575781,
         "long": 9.393392246,
+<<<<<<< HEAD
         "totale_casi": 2825,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2828,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17623,6 +17896,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -17637,6 +17913,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17991,6 +18268,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -18005,12 +18285,17 @@
 =======
         "lat": 45.58439043,
         "long": 9.273582472,
+<<<<<<< HEAD
         "totale_casi": 5759,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 5766,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18369,6 +18654,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -18389,6 +18677,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18743,6 +19032,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -18751,12 +19043,17 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
+<<<<<<< HEAD
         "totale_casi": 1447,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1449,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19031,6 +19328,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -19045,6 +19345,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19222,6 +19523,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -19235,6 +19539,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19465,6 +19770,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -19479,6 +19787,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19793,6 +20102,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -19806,7 +20118,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -19820,7 +20132,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -19834,7 +20146,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -19848,7 +20160,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -19862,7 +20174,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -19876,7 +20188,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -19890,7 +20202,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -19904,7 +20216,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Bolzano",
@@ -19913,12 +20225,12 @@
         "sigla_provincia": "BZ",
         "lat": 46.49933453,
         "long": 11.35662422,
-        "totale_casi": 2636,
+        "totale_casi": 2637,
         "note_it": "",
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Bolzano",
@@ -19932,7 +20244,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Bolzano",
@@ -19946,7 +20258,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -19955,12 +20267,12 @@
         "sigla_provincia": "TN",
         "lat": 46.06893511,
         "long": 11.12123097,
-        "totale_casi": 4860,
+        "totale_casi": 4863,
         "note_it": "",
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -19974,7 +20286,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -19988,7 +20300,7 @@
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -19997,12 +20309,12 @@
         "sigla_provincia": "TO",
         "lat": 45.0732745,
         "long": 7.680687483,
-        "totale_casi": 15880,
+        "totale_casi": 15882,
         "note_it": "",
         "note_en": ""
     },
     {
-        "data": "2020-06-27T17:00:00",
+        "data": "2020-06-28T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -20011,12 +20323,17 @@
         "sigla_provincia": "VC",
         "lat": 45.32398135,
         "long": 8.423234312,
+<<<<<<< HEAD
         "totale_casi": 1321,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1322,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20327,6 +20644,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -20341,12 +20661,17 @@
 =======
         "lat": 45.44588506,
         "long": 8.621915884,
+<<<<<<< HEAD
         "totale_casi": 2788,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2791,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20609,6 +20934,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -20623,12 +20951,17 @@
 =======
         "lat": 44.39329625,
         "long": 7.551171632,
+<<<<<<< HEAD
         "totale_casi": 2855,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2860,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20915,6 +21248,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -20929,6 +21265,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21147,6 +21484,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -21161,6 +21501,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21338,6 +21679,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -21351,6 +21695,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21705,6 +22050,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -21725,6 +22073,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22071,6 +22420,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -22079,12 +22431,17 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
+<<<<<<< HEAD
         "totale_casi": 261,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 262,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22363,6 +22720,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -22371,12 +22731,17 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
+<<<<<<< HEAD
         "totale_casi": 96,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 98,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22731,6 +23096,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -22745,6 +23113,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -23103,6 +23472,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -23117,6 +23489,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -23475,6 +23848,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -23489,6 +23865,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -23787,6 +24164,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -23801,6 +24181,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24123,6 +24504,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -24137,6 +24521,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24479,6 +24864,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -24493,6 +24881,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24819,6 +25208,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -24833,6 +25225,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -25075,6 +25468,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -25089,6 +25485,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -25391,6 +25788,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -25405,6 +25805,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -25719,6 +26120,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -25733,6 +26137,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -25991,6 +26396,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -26005,12 +26413,17 @@
 =======
         "lat": 39.21531192,
         "long": 9.110616306,
+<<<<<<< HEAD
         "totale_casi": 252,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 253,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -26253,6 +26666,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -26267,6 +26683,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -26508,6 +26925,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -26748,6 +27168,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -26881,6 +27302,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -26894,6 +27318,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27119,6 +27544,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -27133,6 +27561,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27395,6 +27824,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -27453,6 +27885,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -27585,6 +28018,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-27T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
@@ -27643,6 +28079,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -27776,6 +28213,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -27789,6 +28229,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27995,6 +28436,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -28009,6 +28453,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -28186,6 +28631,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -28199,6 +28647,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -28485,6 +28934,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -28499,6 +28951,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -28717,6 +29170,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -28731,6 +29187,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -28973,6 +29430,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -28987,6 +29447,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -29269,6 +29730,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -29283,6 +29747,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -29460,6 +29925,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -29473,6 +29941,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -29690,6 +30159,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -29759,6 +30231,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -29892,6 +30365,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -29900,7 +30376,7 @@
         "sigla_provincia": "MS",
         "lat": 44.03674425,
         "long": 10.14173829,
-        "totale_casi": 1050,
+        "totale_casi": 1051,
         "note_it": "",
         "note_en": ""
     },
@@ -29949,6 +30425,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -30081,6 +30558,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-27T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -30095,6 +30575,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -30365,6 +30846,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -30385,6 +30869,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -30731,6 +31216,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -30751,6 +31239,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -30993,6 +31482,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -31001,12 +31493,17 @@
         "sigla_provincia": "LI",
         "lat": 43.55234873,
         "long": 10.3086781,
+<<<<<<< HEAD
         "totale_casi": 476,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 477,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -31269,6 +31766,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -31289,6 +31789,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -31575,6 +32076,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -31589,12 +32093,17 @@
 =======
         "lat": 43.46642752,
         "long": 11.88228844,
+<<<<<<< HEAD
         "totale_casi": 673,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 676,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -31772,6 +32281,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -31785,6 +32297,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -32071,6 +32584,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -32091,6 +32607,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -32353,6 +32870,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -32367,6 +32887,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -32648,6 +33169,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -32717,6 +33241,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -32849,6 +33374,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-27T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 9,
@@ -32907,6 +33435,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-05T17:00:00",
 =======
         "data": "2020-05-06T17:00:00",
@@ -33040,6 +33569,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -33053,6 +33585,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33399,6 +33932,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -33413,6 +33949,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33590,6 +34127,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -33603,6 +34143,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33844,6 +34385,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -33869,6 +34413,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -34111,6 +34656,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -34125,6 +34673,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -34302,6 +34851,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -34355,6 +34907,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -34640,6 +35193,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -34654,6 +35210,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -34831,6 +35388,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -34839,11 +35399,12 @@
         "sigla_provincia": "VR",
         "lat": 45.43839046,
         "long": 10.99352685,
-        "totale_casi": 5124,
+        "totale_casi": 5126,
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35134,6 +35695,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -35142,12 +35706,17 @@
         "sigla_provincia": "VI",
         "lat": 45.547497,
         "long": 11.54597109,
+<<<<<<< HEAD
         "totale_casi": 2862,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2864,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35462,6 +36031,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -35476,12 +36048,17 @@
 =======
         "lat": 46.13837528,
         "long": 12.21704167,
+<<<<<<< HEAD
         "totale_casi": 1186,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 1190,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35736,6 +36313,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -35750,12 +36330,17 @@
 =======
         "lat": 45.66754571,
         "long": 12.24507363,
+<<<<<<< HEAD
         "totale_casi": 2669,
+>>>>>>> upstream/master
+=======
+        "totale_casi": 2672,
 >>>>>>> upstream/master
         "note_it": "",
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -36066,6 +36651,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -36086,6 +36674,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -36416,6 +37005,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -36436,6 +37028,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -36782,6 +37375,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -36796,6 +37392,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -37105,6 +37702,9 @@
 =======
         "data": "2020-06-27T17:00:00",
 >>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
+>>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -37130,6 +37730,7 @@
         "note_en": ""
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -37306,6 +37907,9 @@
 >>>>>>> upstream/master
 =======
         "data": "2020-06-27T17:00:00",
+>>>>>>> upstream/master
+=======
+        "data": "2020-06-28T17:00:00",
 >>>>>>> upstream/master
         "stato": "ITA",
         "codice_regione": 5,
